@@ -168,7 +168,7 @@ Die bisherigen 12,5 kg waren also für die Wiederholungszahlen im Saisonmodus eh
 | Wert | Warum er gebraucht wird |
 | --- | --- |
 | Angriffsreichhöhe exakt | Aktuell „ca. 300 cm". Beim Test in KW 51 mit Kreide und Maßband nachmessen |
-| Blockreichhöhe | Fehlt noch. Zweiter Sprungwert neben dem Anlaufsprung, zeigt die beidbeinige Sprungkraft ohne Anlauf |
+| Blockreichhöhe | Fehlt noch. Zweiter Sprungwert neben dem Anlaufsprung, zeigt die beidbeinige Sprungkraft ohne Anlauf. Daraus folgt das Sprungprofil, siehe docs/02 |
 | Einbeinige Sprunghöhe links und rechts | Für den Asymmetrie-Index, Zielwert unter 10 % Differenz |
 
 ## Verweise

@@ -68,6 +68,11 @@ Saisonmodus, mit zwei Anpassungen:
 | KW 47 bis 49 | Block 2, aber nach der Schulterregel aus docs/09: kein schweres Drücken, Abbremsarbeit bleibt Pflichtteil. Bei nur zwei Slots die Unterkörpereinheiten des Blocks priorisieren |
 | KW 50 | Volumen minus 40 %, Intensität bleibt. Vorbereitung auf Spieltag 3 |
 
+Der Power Clean läuft im Mini-Block als Dichteblock: 10–12 × 1 jede Minute bei 75–80 %
+(ca. 57,5–62,5 kg), ab KW 49 8 × 1 bei 85 % (ca. 65 kg). Jede Wiederholung maximal schnell; wird
+eine langsam, ist Schluss. Viele schnelle Einzelwiederholungen statt weniger ermüdeter Sätze,
+nach THP, siehe [docs/20-evidenz.md](20-evidenz.md).
+
 Der Block setzt drei Slots pro Woche voraus. Bleiben nur zwei, wird er trotzdem gefahren, aber
 mit zwei Unterkörper- und einer Oberkörpereinheit über zwei Wochen verteilt statt vier Einheiten
 pro Woche.

@@ -60,6 +60,29 @@ Bezugspunkt: Die Netzhöhe im Herrenbereich beträgt 2,43 m. Die Angriffsreichh�
 ergibt, wie weit über Netzkante geschlagen wird. Diese Zahl sagt über die Wirkung im Spiel mehr
 aus als jeder Kraftwert.
 
+## Sprungprofil bestimmen
+
+Aus Block- und Angriffsreichhöhe ergibt sich, was der Anlauf bringt:
+
+`Anlaufgewinn = Angriffsreichhöhe − Blockreichhöhe`
+
+| Anlaufgewinn | Profil | Was der nächste Block betont |
+| --- | --- | --- |
+| mehr als ca. 15 cm | elastisch: der Anlauf wird gut in Höhe umgesetzt | mehr Maximalkraft, die elastische Seite ist schon gut |
+| ca. 8 bis 15 cm | ausgeglichen | beides wie geplant |
+| unter ca. 8 cm | kraftbasiert: der Anlauf bringt wenig | mehr reaktive Arbeit (Pogo, Hurdle Hops, Depth Jumps) und Anlauftechnik |
+
+Die Grenzen sind Richtwerte, keine Normwerte. Die Blockreichhöhe misst mit beiden Armen, die
+Angriffsreichhöhe mit einem; der Vergleich ist deshalb nur über die Zeit aussagekräftig, nicht als
+absolute Zahl. Das Verfahren folgt Sheppard und THP, siehe [docs/20-evidenz.md](20-evidenz.md).
+
+## Anlaufsprung filmen
+
+Einmal im Monat, am besten in Kraft 1 bei den Anlaufsprüngen: Handy seitlich auf Hüfthöhe, etwa
+5 m entfernt, Zeitlupe. Worauf achten: letzte beiden Schritte lang und schnell, Oberkörper vor dem
+Absprung nach vorn geneigt, Armschwung kräftig nach hinten oben, kurzer Bodenkontakt beim
+Absprung. Videos mit Datum ablegen, damit sich Veränderungen vergleichen lassen.
+
 ## Asymmetrie berechnen
 
 `Asymmetrie % = (stärkeres Bein − schwächeres Bein) / stärkeres Bein × 100`

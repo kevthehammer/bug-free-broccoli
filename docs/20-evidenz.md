@@ -92,7 +92,7 @@ Forschung oben: schwer und schnell kombinieren, wenige gezielte Sprünge, Kraft�
 Sprungmasse. Die Einheitsreihenfolge entspricht fast genau deinem früheren Ablauf und der jetzigen
 Kraft 1.
 
-**Was davon für dich passt:**
+**Was davon für dich passt** (Punkte 2 bis 4 am 14.10.2026 übernommen: Sprungprofil und Video in docs/02, Dichteblock in docs/18):
 
 1. **Jetzt in der Saison: nichts umbauen.** Kraft 1 folgt schon der THP-Reihenfolge.
 2. **Profil bestimmen beim Test in KW 51.** Standsprung ohne Anlauf (Blockreichhöhe) gegen
