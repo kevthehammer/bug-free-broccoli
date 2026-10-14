@@ -63,3 +63,54 @@ klein, die Effekte sind Richtwerte, keine Garantien.
 - Rathi M, Palekar T, Varghese A (2013). Efficacy of backward walking on patients with osteoarthritis of knee. https://search.pedro.org.au/search-results/record-detail/77452
 - Andersson SH, Bahr R, Clarsen B, Myklebust G (2017). Preventing overuse shoulder injuries among throwing athletes. Br J Sports Med 51(14): 1073–1080. https://search.pedro.org.au/search-results/record-detail/50222
 - Sheppard J, Interview zu Sprungtraining im Volleyball (Praxisquelle, keine Studie). https://christianbosse.com/volleyball-vertical-jump/
+
+## THP Strength (Isaiah Rivera, John Evans)
+
+THP ist ein kommerzielles Online-Coaching für Sprungkraft. Isaiah Rivera hält nach eigenen Angaben
+den höchsten gemessenen Anlaufsprung (50,5 Zoll, ca. 128 cm), John Evans schreibt die Programme.
+Die eigentlichen Programme sind kostenpflichtig. Ausgewertet wurden nur öffentliche Quellen:
+Website, Podcast-Beschreibungen und eine Zusammenfassung eines Videos zur Periodisierung.
+
+**Was THP macht:**
+
+| Prinzip | Wie THP es umsetzt |
+| --- | --- |
+| Reihenfolge in der Einheit | Antritte bis 30 m, dann Hurdle Hops, dann Power Cleans, dann Kniebeuge. Wenig Zubehörübungen |
+| Kraft-Geschwindigkeits-Kurve | Zyklen wandern von konzentrisch über isometrisch zu exzentrisch, von allgemein zu spezifisch |
+| Mehrere Qualitäten gleichzeitig | Kraft, Schnellkraft und Elastizität laufen parallel, mit wechselndem Schwerpunkt |
+| Reize sparsam einsetzen | Ein neuer Reiz wirkt beim ersten Mal am stärksten, deshalb wird er nicht verschlissen |
+| Übergewichtige Exzentrik | 105 % abwärts in 3–4 s, 3 × 3, nur 3 Wochen (2 laden, 1 entlasten), am Ende eines Makrozyklus. Konzentrische Werte steigen erst nach ca. 6 Wochen |
+| Maximale Isometrie | für die Sehne und den Dehnungsreflex, eine eigene Isometrie-Woche bei Patellasehnenschmerz |
+| Dichte vor Intensität | Power Clean z. B. 20 × 1 jede Minute, später 8 × 2 bei 95 % |
+| Kraftübungen statt täglich springen | tägliches Springen festigt schlechte Technik und belastet das Knie |
+| Technik | Anlaufsprung per Video, Bodenkontaktzeit, Reaktivkraftindex. Weltrekordsprung: ca. 0,31 s Kontakt |
+| Profil | elastischer gegen kraftbasierten Springer, danach richtet sich der Zyklus |
+
+**Einordnung:** THP zitiert keine Studien, die Garantien sind Werbeversprechen, die
+Erfolgsgeschichten sind nicht überprüfbar. Die Prinzipien decken sich aber weitgehend mit der
+Forschung oben: schwer und schnell kombinieren, wenige gezielte Sprünge, Kraftübungen statt
+Sprungmasse. Die Einheitsreihenfolge entspricht fast genau deinem früheren Ablauf und der jetzigen
+Kraft 1.
+
+**Was davon für dich passt:**
+
+1. **Jetzt in der Saison: nichts umbauen.** Kraft 1 folgt schon der THP-Reihenfolge.
+2. **Profil bestimmen beim Test in KW 51.** Standsprung ohne Anlauf (Blockreichhöhe) gegen
+   Anlaufsprung. Bringt der Anlauf viel, bist du eher elastisch und brauchst mehr Kraft. Bringt
+   er wenig, eher kraftbasiert, dann mehr reaktive Arbeit. Sheppard nutzt denselben Vergleich.
+3. **Anlaufsprung filmen,** einmal im Monat von der Seite. Technik kostet keine Erholung.
+4. **Mini-Block KW 47–50:** Power Clean als Dichteblock möglich, z. B. 10–12 × 1 jede Minute
+   bei 75–80 %, statt 3 × 2.
+5. **Off-Season ab Februar:** Reihenfolge konzentrisch, isometrisch, exzentrisch als Grundgerüst.
+   Übergewichtige Exzentrik nur dort, nie in der Saison, wegen der sechs Wochen Ermüdung.
+
+**Quellen:**
+
+- THP Strength, Website: https://www.thpstrength.com/
+- THP Jump Training, Community von Isaiah Rivera Colon: https://www.skool.com/thp/beginner-jump-training
+- THPStrength Podcast, Episodenliste: https://rephonic.com/podcasts/thpstrength
+- Podcast „How To Improve Your Stretch Reflex“ (23.02.2026): https://share.transistor.fm/s/05ee5cc0
+- Podcast „How To Train Your Tendons To Jump Higher“ (2024): https://thpstrength.transistor.fm/episodes/how-to-train-your-tendons-to-jump-higher
+- Podcast zum 53-Zoll-Weltrekord (21.07.2026): https://share.transistor.fm/s/189d6053
+- Podcast „How To Become An Elastic Jumper“ (2024): https://everand.com/podcast/720559289/How-To-Become-An-Elastic-Jumper
+- KI-Zusammenfassung eines THP-Videos zur Periodisierung (Sekundärquelle): https://gist.ly/youtube-summarizer/master-jump-training-periodization-cycles-explained
