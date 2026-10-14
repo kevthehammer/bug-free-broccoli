@@ -145,6 +145,26 @@ Die Spieltage und der vollständige Wochenkalender stehen in
 Volleyballsprünge zählen mit, eine Einheit sind grob 80 bis 150. Zählweise und Steigerungsregel
 stehen in [docs/10-plyometrie.md](10-plyometrie.md).
 
+## Wenn eine Einheit ausfällt
+
+Dazwischenkommen ist der Normalfall, nicht die Ausnahme. Die Entscheidung, ob nachgeholt wird,
+läuft in drei Stufen und hängt davon ab, welche Einheit ausgefallen ist.
+
+| Ausgefallen | Was zu tun ist |
+| --- | --- |
+| Kraft 3 | Ersatzlos streichen. Nicht nachholen, nicht auf eine andere Einheit draufpacken. Das Ausfallen kostet nichts, das Stapeln schon |
+| Kraft 1 oder Kraft 2 | Stufe 1: mit einer Einheit niedrigerer Priorität tauschen. Fällt Kraft 1 am Montag aus, wird der Mittwoch zu Kraft 1 und Kraft 2 rutscht ans Wochenende oder entfällt |
+| Kraft 1 oder Kraft 2 | Stufe 2: wenn kein Tausch möglich ist, ein freier Tag derselben Woche — mit mindestens zwei Tagen Abstand zum Spieltag und nicht direkt neben dem nächsten Termin derselben Einheit |
+| Kraft 1 oder Kraft 2 | Stufe 3: wenn beides nicht geht, nicht nachholen. Nächste Woche normal weiter |
+
+Drei Regeln stehen über dem Nachholen:
+
+1. **Der Freitag vor einem Spieltag bleibt frei.** Er ist Erholungstag, kein Ausweichslot.
+2. **Zwei schwere Beineinheiten im Abstand von einem Tag sind schlechter als eine.** Deshalb wird
+   Kraft 1 nie direkt neben den nächsten Kraft-1-Termin gelegt.
+3. **Fällt Kraft 2 ersatzlos aus, bleibt die tägliche Schulter-Mini-Dosis.** Fünf bis acht Minuten,
+   die den Großteil des Nutzens dieser Einheit tragen.
+
 ## Wenn eine Woche gar nichts hergibt
 
 Dann bleibt die tägliche Schulter-Mini-Dosis aus [docs/12-prehab-schulter.md](12-prehab-schulter.md)
