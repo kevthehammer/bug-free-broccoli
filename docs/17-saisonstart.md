@@ -56,7 +56,7 @@ Erstes Spiel am Samstag 31. Oktober. Volumen runter, Intensität bleibt, Freitag
 | Mi 28.10. | — | Kraft B gekürzt: Aktivierung, Zug, Abbremsarbeit, Prehab. Kein Drücken |
 | Do 29.10. | — | Mobilität und Prehab, 20 min |
 | Fr 30.10. | — | frei. Kein Volleyball, kein Krafttraining. Höchstens 10 min Aktivierung |
-| Sa 31.10. | **Erstes Spiel** | — |
+| Sa 31.10. | **Spieltag 1, zwei Spiele, auswärts in Jena** | — |
 | So 01.11. | — | frei |
 
 ## Woche 2 im Detail
@@ -80,10 +80,21 @@ Trifft eines davon nicht zu, nimm in der nächsten Spielwoche Kraft A auf 2 Sät
 zurück. Siehe auch die Varianten A, B und C in
 [docs/15-progression-autoregulation.md](15-progression-autoregulation.md).
 
+## Der erste Spieltag selbst
+
+Spieltag 1 sind zwei Spiele hintereinander, auswärts in Jena, Anpfiff 11:00 Uhr. Das heißt frühe
+Anreise und lange Sitzzeit vor dem ersten Ballkontakt — das Aufwärmen nach
+[docs/14-warmup-mobility.md](14-warmup-mobility.md) ist an dem Tag kein Beiwerk. Zwischen den
+beiden Spielen in Bewegung bleiben statt auszukühlen.
+
+In der Woche danach (KW 45) gilt: Drückvolumen null, Beine normal. Siehe
+[docs/18-saisonkalender.md](18-saisonkalender.md).
+
 ## Was danach kommt
 
 Ab dem 2. November gilt der Saisonmodus aus [docs/09-inseason.md](09-inseason.md): freie Wochen
-als Aufbauwochen, Spielwochen als Erhaltungswochen.
+als Aufbauwochen, Spielwochen als Erhaltungswochen. Welche Woche welche ist, steht im
+[Saisonkalender](18-saisonkalender.md).
 
 ## Verweise
 

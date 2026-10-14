@@ -115,6 +115,19 @@ Nur in der freien Woche. Diese Einheit ist der Grund, warum freie Wochen Aufbauw
 Volleyballsprünge zählen mit, eine Einheit sind grob 80 bis 150. Zählweise und Steigerungsregel
 stehen in [docs/10-plyometrie.md](10-plyometrie.md).
 
+## Der Doppelspieltag
+
+An jedem Spieltag dieser Saison stehen zwei Spiele an, nicht eines. Das verdoppelt die Sprung-
+und vor allem die Schlagbelastung an einem Vormittag. Daraus folgt eine Regel, die über allem
+anderen in dieser Datei steht:
+
+**In der Woche nach einem Spieltag ist das Drückvolumen null.** Auch Punkt 10 in Kraft B
+entfällt, unabhängig von seiner Freigabebedingung. Schulter-Mini-Dosis und Abbremsarbeit laufen
+normal weiter, die Beine ebenfalls.
+
+Die Spieltage und der vollständige Wochenkalender stehen in
+[docs/18-saisonkalender.md](18-saisonkalender.md).
+
 ## Wenn zwei Spiele in einer Woche anstehen
 
 Auf eine Krafteinheit reduzieren: Kraft A mit Back Squat 2 × 3 und Spanish Squat, dazu die
@@ -131,3 +144,4 @@ Schulter-Prehab. Das Prehab läuft täglich weiter und wird nie als Erstes gestr
 - [docs/13-uebungskatalog.md](13-uebungskatalog.md)
 - [docs/15-progression-autoregulation.md](15-progression-autoregulation.md)
 - [docs/17-saisonstart.md](17-saisonstart.md)
+- [docs/18-saisonkalender.md](18-saisonkalender.md)

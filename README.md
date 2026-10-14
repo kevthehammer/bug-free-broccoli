@@ -22,8 +22,12 @@
 
 **Wichtig:** Der 16-Wochen-Makrozyklus ist ein Off-Season-Werkzeug. Das erste Spiel ist am
 31. Oktober 2026, daher gilt jetzt zuerst [docs/17-saisonstart.md](docs/17-saisonstart.md) und
-danach [docs/09-inseason.md](docs/09-inseason.md). Der Makrozyklus beginnt nach dem letzten
-Spieltag.
+danach [docs/09-inseason.md](docs/09-inseason.md). Welche Woche Aufbau- und welche
+Erhaltungswoche ist, steht in [docs/18-saisonkalender.md](docs/18-saisonkalender.md). Der
+Makrozyklus beginnt nach dem letzten Spieltag am 13. Februar 2027.
+
+An jedem Spieltag stehen **zwei Spiele** an. Die Woche nach einem Spieltag läuft deshalb ohne
+jedes Drückvolumen im Gym.
 
 ## Navigation
 
@@ -47,6 +51,7 @@ Spieltag.
 | [docs/15-progression-autoregulation.md](docs/15-progression-autoregulation.md) | Progression, Readiness-Check, Abbruchregeln |
 | [docs/16-regeneration-ernaehrung.md](docs/16-regeneration-ernaehrung.md) | Schlaf, Ernährung, Supplemente, Regeneration |
 | [docs/17-saisonstart.md](docs/17-saisonstart.md) | Anschliff bis zum ersten Spiel am 31.10.2026 |
+| [docs/18-saisonkalender.md](docs/18-saisonkalender.md) | Spieltage und Wochenkalender: wann aufbauen, wann halten |
 | [log/wochenlog-vorlage.md](log/wochenlog-vorlage.md) | Vorlage für das Wochenlog |
 | [log/testprotokoll-vorlage.md](log/testprotokoll-vorlage.md) | Vorlage für das Testprotokoll |
 
