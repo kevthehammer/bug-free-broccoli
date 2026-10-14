@@ -76,7 +76,7 @@ Freigabebedingung.
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Schulter-Aktivierung | je 2 Sätze | leicht | 30 s | Band Pull-apart, Wall Slide mit Band, Prone Y |
-| 2 | Weighted Chin-up | 3 × 5 | RPE 7 | 2 min | Zugvolumen trägt die Einheit |
+| 2 | Weighted Chin-up | 3 × 5 | RPE 7 = +15 kg | 2 min | Zugvolumen trägt die Einheit |
 | 3 | Chest-supported Row | 3 × 8 | RPE 7 | 90 s | Brust aufgelegt, kein Schwung |
 | 4 | Single-arm DB Row | 2 × 10/Arm | RPE 7 | 90 s | ohne Rumpfrotation |
 | 5 | Exzentrische Außenrotation | 3 × 8/Arm | langsam, 4 s zurück | 60 s | Abbremskraft für den Schlagarm |

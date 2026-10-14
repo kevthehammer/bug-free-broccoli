@@ -110,17 +110,66 @@ falsch, trainiert aber eher Kraft als Schnelligkeit.
 | Maximale Leistungsabgabe, Sprunghöhe | 10–20 kg |
 | Kraft-Schnelligkeit | 30 kg, wie bisher |
 
+## Körperdaten und Sprungwerte
+
+| Wert | Stand 14.10.2026 | Herkunft |
+| --- | --- | --- |
+| Körpergewicht | 72,45 kg | Tagesmessung, App |
+| Körpergröße | 1,82 m | abgeleitet aus den BMI-Grenzen der App (61,28 / 82,81 / 99,37 kg entsprechen BMI 18,5 / 25 / 30) |
+| BMI | 21,9 | gerechnet |
+| Standreichhöhe | 233 cm | einhändig, höchster Finger |
+| Angriffsreichhöhe | ca. 300 cm | einhändig, mit Anlauf |
+| Sprunghöhe | 67 cm | Differenz der beiden Reichhöhen |
+
+Das Verhältnis Standreichhöhe zu Körpergröße liegt bei 1,280 und damit im üblichen Bereich von
+1,28 bis 1,33. Die beiden unabhängigen Angaben stützen sich also gegenseitig.
+
+**Über Netzkante: 57 cm.** Die Netzhöhe im Herrenbereich beträgt 2,43 m, die Angriffsreichhöhe
+3,00 m. Das ist die Zahl, die über die Wirkung am Netz entscheidet.
+
+Die Sprunghöhe von 67 cm liegt deutlich über der alten Schätzung von 55 bis 60 cm. Da die
+Angriffsreichhöhe mit „ca." angegeben ist, gehört sie beim nächsten Test sauber nachgemessen.
+
+### Gewichtsverlauf
+
+Spanne über drei Jahre 68,45 bis 76,75 kg, Monatssatz 0,01 kg. Das Gewicht ist praktisch stabil
+und liegt in der Mitte der eigenen Spanne. Kein Hinweis auf ein Energiedefizit, keiner auf eine
+Zunahme. Für die Saison heißt das: das Gewicht ist kein Thema, der Verlauf dient nur als
+Frühwarnung. Fällt der 7-Tage-Schnitt über zwei Wochen um mehr als 1,5 kg, ohne dass es gewollt
+ist, ist das ein Zeichen für zu geringe Energiezufuhr bei steigender Belastung.
+
+### Relative Kraft
+
+| Größe | Wert |
+| --- | --- |
+| Back Squat 1RM / Körpergewicht | 105 / 72,45 = **1,45** |
+| Zielwert aus [docs/02-testbatterie.md](02-testbatterie.md) | 1,50 |
+| Dafür nötiges 1RM | 108,7 kg |
+| Abstand | 3,7 kg |
+
+Das ist ein konkretes Blockziel. **Im Mini-Block KW 47 bis 50 auf ein 1RM von 110 kg**, das sind
+1,52-fache Körpergewicht. Drei Belastungswochen mit je 2,5 kg Steigerung reichen dafür aus.
+
+## Klimmzüge
+
+Mit 72,45 kg Körpergewicht und 12,5 kg Zusatzlast für 7 Wiederholungen in drei Sätzen ergibt sich
+ein 1RM von rund 110 kg Gesamtlast, also **37,5 kg Zusatzlast**.
+
+| Vorgabe | Gesamtlast | Zusatzlast |
+| --- | --- | --- |
+| Kraft B, 3 × 5 bei RPE 7 | 87 kg | **+15 kg** |
+| Block 2, 5 × 4 | 92 kg | +20 kg |
+| Block 4, 3 × 3 | 94 kg | +22,5 kg |
+
+Die bisherigen 12,5 kg waren also für die Wiederholungszahlen im Saisonmodus eher konservativ.
+
 ## Was noch fehlt
 
 | Wert | Warum er gebraucht wird |
 | --- | --- |
-| Körpergewicht | Ohne ihn lässt sich weder die relative Kraft noch die Zusatzlast für Klimmzüge sinnvoll ansetzen |
-| Reichhöhe im Stand | Basiswert für alle Sprungtests in [docs/02-testbatterie.md](02-testbatterie.md) |
-| Aktuelle Sprunghöhe | Die 55 bis 60 cm sind eine ältere, nicht verifizierte Schätzung |
-
-Zur Einordnung: Der Zielwert aus der Testbatterie ist eine relative Kraft von mindestens dem
-1,5-fachen Körpergewicht in der Kniebeuge. Bei 105 kg angesetztem 1RM wird dieser Wert bei 70 kg
-Körpergewicht erreicht; bei 80 kg Körpergewicht liegt die relative Kraft bei 1,31.
+| Angriffsreichhöhe exakt | Aktuell „ca. 300 cm". Beim Test in KW 51 mit Kreide und Maßband nachmessen |
+| Blockreichhöhe | Fehlt noch. Zweiter Sprungwert neben dem Anlaufsprung, zeigt die beidbeinige Sprungkraft ohne Anlauf |
+| Einbeinige Sprunghöhe links und rechts | Für den Asymmetrie-Index, Zielwert unter 10 % Differenz |
 
 ## Verweise
 
