@@ -37,7 +37,7 @@
 | Wall Slide mit Band | 10 |
 | Band Pull-apart | 20 |
 | Prone Y | 12 |
-| Außenrotation in Skapulaebene | 15/Arm |
+| Außenrotation in Skapulaebene | 15/Arm mit Band |
 
 ## Potentiate
 
