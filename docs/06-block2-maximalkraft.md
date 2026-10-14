@@ -19,7 +19,7 @@
 | Pause | 2–3 min an Hauptübungen |
 | Sprungkontakte | 80 / 100 / 120 / 60 (Wochen 5–8, siehe [docs/03-periodisierung.md](03-periodisierung.md)) |
 
-## T1
+## T1 Unterkörper Kraft
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,7 @@
 | 6 | Standing Calf Raise | 4 × 10 | RPE 8 | 60 s | schwer, 2 s Pause unten |
 | 7 | Copenhagen Plank | 3 × 30 s/Seite | Körpergewicht | 45 s | — |
 
-## T2
+## T2 Oberkörper druckbetont
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
@@ -45,7 +45,7 @@
 | 8 | Serratus Push-up Plus | 3 × 12 | Körpergewicht | 45 s | — |
 | 9 | Pallof Press | 3 × 12/Seite | mittel | 45 s | — |
 
-## T3
+## T3 Unterkörper unilateral + COD
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@
 | 6 | Tibialis Raise | 3 × 15 | RPE 7 | 45 s | — |
 | 7 | Single-leg Calf Raise | 3 × 12/Bein | RPE 8 | 45 s | — |
 
-## T4
+## T4 Oberkörper zugbetont + Medizinball
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |

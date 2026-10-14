@@ -56,7 +56,9 @@ T3 liegt am Mittwoch und nicht am Freitag, weil Platzierungsregel 1 eine schwere
 1. Schwere Unterkörpereinheit nicht in den 48 h vor einem Spiel.
 2. Plyometrie und Sprungarbeit immer ausgeruht, nie am Ende einer Einheit nach schwerem Kraftteil (Ausnahme: Kontrastsätze in Block 3/4, dort bewusst gepaart).
 3. Krafttraining am selben Tag wie Volleyball: nach dem Volleyball oder mindestens 6 h Abstand.
-4. Zwischen T1 und T3 mindestens 48 h.
+4. Zwischen T1 und T3 mindestens 48 h. Gemeint ist der Abstand zwischen den Trainingszeitpunkten,
+   nicht zwischen Kalendertagen: bei gleicher Tageszeit entsprechen zwei Kalendertage Abstand
+   genau 48 h. Liegt T3 deutlich früher am Tag als T1, eine Einheit einen Tag weiter schieben.
 5. Oberkörpereinheiten sind flexibel verschiebbar, Unterkörpereinheiten nicht.
 
 ## Sprungbelastungs-Budget
