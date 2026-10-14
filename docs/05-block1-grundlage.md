@@ -25,7 +25,7 @@
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Spanish Squat Isometrie | 5 × 45 s | ca. 70 % MVC | 2 min | Sehnenprotokoll Phase 1, vor dem Krafttraining |
+| 1 | Spanish Squat | 5 × 45 s | ca. 70 % MVC | 2 min | isometrisch halten, Sehnenprotokoll Phase 1, vor dem Krafttraining |
 | 2 | Pogo Hops | 3 × 20 Kontakte | Körpergewicht | 60 s | steifes Sprunggelenk, kurze Bodenkontaktzeit, Knie fast gestreckt |
 | 3 | Back Squat | 4 × 8 | RPE 7 | 2 min | Tempo 3-1-1, exzentrisch betont |
 | 4 | Romanian Deadlift | 3 × 10 | RPE 7 | 90 s | Hüftscharnier, Schienbein senkrecht |
@@ -54,7 +54,7 @@
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Spanish Squat Isometrie | 5 × 45 s | 70 % MVC | 2 min | Sehnenprotokoll Phase 1 |
+| 1 | Spanish Squat | 5 × 45 s | 70 % MVC | 2 min | isometrisch halten, Sehnenprotokoll Phase 1 |
 | 2 | Low Box Step-down | 3 × 8/Bein | Körpergewicht | 60 s | 3 s exzentrisch, Landekontrolle, Knie stabil |
 | 3 | Trap Bar Deadlift | 4 × 6 | RPE 7 | 2 min | high handles |
 | 4 | Reverse Lunge | 3 × 8/Bein | RPE 7 | 90 s | kontrolliert absetzen |

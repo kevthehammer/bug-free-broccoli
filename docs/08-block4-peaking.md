@@ -38,7 +38,7 @@ Depth Jumps werden nur durchgeführt, wenn das Knie über die letzten 4 Wochen b
 | 3 | Depth Jump | 4 × 3 | Box 30–45 cm | 2 min | nur bei Freigabe, minimale Bodenkontaktzeit |
 | 4 | Trap Bar Jump leicht | 4 × 3 | 20 % 1RM | 2 min | maximale Beschleunigung |
 | 5 | Romanian Deadlift | 2 × 5 | RPE 7 | 90 s | Erhalt |
-| 6 | Calf Raise explosiv | 3 × 6 | RPE 7 | 60 s | — |
+| 6 | Standing Calf Raise explosiv | 3 × 6 | RPE 7 | 60 s | — |
 
 ## T2 Oberkörper druckbetont
 
@@ -60,7 +60,7 @@ Depth Jumps werden nur durchgeführt, wenn das Knie über die letzten 4 Wochen b
 | 1 | Anlaufsprung maximal | 8 × 2 | Körpergewicht | 2 min | mit Reichhöhenmessung, volle Erholung |
 | 2 | Single-leg Depth Drop | 3 × 4/Bein | Box 20 cm | 90 s | Landung halten |
 | 3 | Lateral Bound maximal | 4 × 3/Seite | Körpergewicht | 90 s | Weite messen |
-| 4 | Split Squat leicht | 2 × 6/Bein | RPE 6 | 90 s | Erhalt |
+| 4 | Bulgarian Split Squat leicht | 2 × 6/Bein | RPE 6 | 90 s | Erhalt |
 | 5 | Richtungswechsel maximal | 5-10-5 4×, Reaktionsdrills 4× | maximal | 2 min | — |
 
 ## T4 Oberkörper zugbetont + Medizinball
@@ -73,7 +73,7 @@ Depth Jumps werden nur durchgeführt, wenn das Knie über die letzten 4 Wochen b
 | 4 | Pull-up | 3 × 5 | RPE 7 | 2 min | — |
 | 5 | Single-arm DB Row | 3 × 8/Arm | RPE 7 | 90 s | — |
 | 6 | Prone Y-T-W | 3 × 12 je | leicht | 60 s | — |
-| 7 | Bottoms-up KB Carry | 2 × 20 m/Arm | mittel | 60 s | — |
+| 7 | Bottoms-up Kettlebell Carry | 2 × 20 m/Arm | mittel | 60 s | — |
 
 ## Wochenverlauf
 

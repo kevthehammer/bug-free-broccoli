@@ -68,7 +68,7 @@
 | 5 | Single-arm DB Row | 4 × 8/Arm | RPE 8 | 90 s | — |
 | 6 | Incline DB Press neutraler Griff | 4 × 8 | RPE 8 | 90 s | — |
 | 7 | Prone Y-T-W | 3 × 12 je | leicht | 60 s | — |
-| 8 | Bottoms-up KB Carry | 3 × 20 m/Arm | leicht-mittel | 60 s | — |
+| 8 | Bottoms-up Kettlebell Carry | 3 × 20 m/Arm | leicht-mittel | 60 s | — |
 | 9 | Hanging Leg Raise | 3 × 10 | Körpergewicht | 60 s | — |
 
 ## Wochenverlauf
