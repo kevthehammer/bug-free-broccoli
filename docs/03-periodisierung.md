@@ -8,12 +8,14 @@ Blockperiodisierung mit 4 Blöcken à 4 Wochen nach dem Schema 3 Belastungswoche
 
 ## Blockübersicht
 
-| Block | Wochen | Ziel | Kraftintensität | Wdh-Bereich | RIR | Sprungkontakte/Woche |
+| Block | Wochen | Ziel | Kraftintensität | Wdh-Bereich | RIR | Sprungkontakte W1 / W2 / W3 / W4 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 1–4 | Grundlage, Sehnenkonditionierung | 65–75 % | 6–10 | 3–4 | 60 / 80 / 100 / 50 |
 | 2 | 5–8 | Maximalkraft, Heavy Slow Resistance | 80–88 % | 3–6 | 1–2 | 80 / 100 / 120 / 60 |
 | 3 | 9–12 | Schnellkraft, Kontrastmethode | 80–90 % + 30–50 % | 2–5 | 2–3 | 100 / 120 / 140 / 70 |
 | 4 | 13–16 | Peaking, Sprungkraftausdruck | 85–92 % | 1–3 | 2–3 | 120 / 100 / 80 / 40 |
+
+Die vier Zahlen je Block stehen für die Wochen 1 bis 4 des jeweiligen Blocks. Die vierte Zahl ist die Entlastungswoche.
 
 ## Entlastungswochen
 

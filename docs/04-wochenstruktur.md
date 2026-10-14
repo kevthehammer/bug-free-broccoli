@@ -19,11 +19,13 @@
 | --- | --- | --- |
 | Mo | — | T1 |
 | Di | VB | T2 (nach dem Volleyball) |
-| Mi | — | frei |
+| Mi | — | T3 |
 | Do | VB | — |
-| Fr | — | T3 |
+| Fr | — | frei bzw. nur Prehab |
 | Sa | Spiel | — |
 | So | — | T4 (locker) |
+
+T3 liegt am Mittwoch und nicht am Freitag, weil Platzierungsregel 1 eine schwere Unterkörpereinheit in den 48 h vor dem Spiel ausschließt. Zu T1 am Montag bleiben genau die nach Regel 4 geforderten 48 h.
 
 ### Szenario B — 3 VB-Einheiten Mo/Mi/Fr, Spiel So
 
