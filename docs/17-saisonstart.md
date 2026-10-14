@@ -58,7 +58,7 @@ Intensität bleibt.
 
 | Tag | Volleyball | Kraft |
 | --- | --- | --- |
-| Mo 26.10. | — | **Kraft 1 reduziert**, Back Squat 90 kg, nur 2 Arbeitssätze, 2 Sprints, kein Power Clean, keine Anlaufsprünge |
+| Mo 26.10. | — | **Kraft 1 reduziert**, Back Squat 90 kg, nur 2 Arbeitssätze, 2 Antritte, kein Power Clean, keine Anlaufsprünge |
 | Di 27.10. | Damentraining, danach Herrentraining | — |
 | Mi 28.10. | — | **Kraft 2 ohne Drücken**, Abbremsarbeit bleibt |
 | Do 29.10. | Damentraining | — |

@@ -53,6 +53,7 @@ jedes Drückvolumen im Gym.
 | [docs/17-saisonstart.md](docs/17-saisonstart.md) | Anschliff bis zum ersten Spiel am 31.10.2026 |
 | [docs/18-saisonkalender.md](docs/18-saisonkalender.md) | Spieltage und Wochenkalender: wann aufbauen, wann halten |
 | [docs/19-arbeitsgewichte.md](docs/19-arbeitsgewichte.md) | Geschätzte 1RM und Arbeitsgewichte in Kilogramm |
+| [docs/20-evidenz.md](docs/20-evidenz.md) | Studienlage zu Kraft 1 mit Quellen |
 | [log/wochenlog-vorlage.md](log/wochenlog-vorlage.md) | Vorlage für das Wochenlog |
 | [log/testprotokoll-vorlage.md](log/testprotokoll-vorlage.md) | Vorlage für das Testprotokoll |
 

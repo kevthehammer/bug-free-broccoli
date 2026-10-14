@@ -96,7 +96,7 @@
 | Lateral Bound | Einbeiniger seitlicher Sprung mit Landung und Halten. | kontrolliert landen und halten | Single-leg Bound |
 | Broad Jump | Beidbeiniger Weitsprung aus dem Stand mit Landung halten. | Landung halten | Vertical Box Jump |
 | Vertical Box Jump | Beidbeiniger vertikaler Sprung auf eine Box. | weich und aktiv landen, maximale Absicht | Broad Jump |
-| Sprint | Gerader Antritt über 20 m aus dem Stand oder aus dem Hochstart, als Steigerung submaximal. | Oberkörper nach vorn geneigt, kräftiger Abdruck, Arme aktiv | Bergsprint |
+| Sprint | Gerader Antritt über 10 m aus dem Stand oder aus dem Hochstart, der erste Lauf als Steigerung submaximal. | Oberkörper nach vorn geneigt, kräftiger Abdruck, Arme aktiv | Bergsprint |
 | Anlaufsprung | Angriffssprung mit 3-Schritt-Anlauf, Horizontal- in Vertikalbewegung umgewandelt. | auf Reichhöhe, volle Erholung zwischen den Sprüngen | Vertical Box Jump |
 | Trap Bar Jump | Sprung aus der Trap Bar mit leichter Last. | maximale Beschleunigung | Vertical Box Jump |
 | 5-10-5 Pro-Agility | Richtungswechsel-Lauf 5-10-5 mit Start- und Wendepunkt. | vollständige Pausen, Qualität vor Menge | T-Test |

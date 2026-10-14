@@ -27,7 +27,7 @@ oben aufgefüllt.
 
 | Priorität | Einheit | Dauer | Wird gestrichen wenn |
 | --- | --- | --- | --- |
-| 1 | Kraft 1 — Unterkörper und Power | 75–85 min | nie |
+| 1 | Kraft 1 — Unterkörper und Power | 70–80 min | nie |
 | 2 | Kraft 2 — Zug, Schulter, Abbremsen | 50–60 min | nur bei einer einzigen Einheit in der Woche |
 | 3 | Kraft 3 — Sprungkraft und Athletik | 40–50 min | sobald die Zeit fehlt |
 
@@ -65,33 +65,32 @@ Details in [docs/12-prehab-schulter.md](12-prehab-schulter.md).
 
 ## Kraft 1 — Unterkörper und Power
 
-Die Einheit folgt dem Ablauf, mit dem du vor der Saison trainiert hast: erst schnell, dann schwer.
-Sprints und Anlaufsprünge kommen vor die Hantel, solange das Nervensystem frisch ist.
+Eine Mischung aus deinem bewährten Ablauf und dem bisherigen Plan, begründet in
+[docs/20-evidenz.md](20-evidenz.md): erst schnell, dann schwer, mit wenigen gezielten Sprüngen.
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Schlitten rückwärts ziehen | 4 × 20 m | mittel | 60 s | Knieprävention im Aufwärmen. Kleine Schritte, Knie schieben über die Zehen |
+| 1 | Schlitten rückwärts ziehen | 3 × 20 m | mittel | 60 s | Aufwärmen. Kleine Schritte, Knie schieben über die Zehen |
 | 2 | Aufwärmen Kniebeuge und Ausfallschritt | je 1 × 10 | Körpergewicht | 30 s | Ausfallschritt mit dem Knie weit über den Fuß nach vorn, hinten in die Hüftdehnung |
-| 3 | Sprint Steigerung | 2 × 20 m | 60 %, dann 80 % | 90 s | nur Vorbereitung auf die maximalen Läufe |
-| 4 | Sprint | 3 × 20 m | maximal | 2–3 min | in der Spielwoche 2 Sätze. Volle Pause, jeder Lauf schnell. Wird ein Lauf spürbar langsamer, ist Schluss |
+| 3 | Pogo Hops | 2 × 10 | Körpergewicht | 60 s | reaktive Sprungkraft, kurze Bodenkontakte, steifes Sprunggelenk |
+| 4 | Sprint | 3 × 10 m | maximal | 2 min | in der Spielwoche 2 Sätze. Erster Lauf mit 80 % als Steigerung, dann maximaler Antritt |
 | 5 | Anlaufsprung | 3 × 2 | maximal | 2 min | in der Spielwoche streichen. In den Pausen den Power Clean aufwärmen |
 | 6 | Power Clean | 3 × 2 | 70–72,5 kg | 2–3 min | in der Spielwoche streichen. Aufwärmsätze vorher. Wird die zweite Wiederholung langsam, ist der Satz vorbei |
-| 7 | Back Squat | 3 × 3 | 85 % = 90 kg | 2–3 min | in der Spielwoche 2 Sätze, nie bis zum Versagen, 2–3 RIR. Aufwärmsätze vorher |
-| 8 | Jump Squat | 3 × 3 | 30 kg | 90 s | optional, in der Spielwoche streichen. Maximale Absicht, weich landen |
-| 9 | Romanian Deadlift | 3 × 5 | RPE 7 = ca. 90 kg | 2 min | ersetzt das Trap Bar Deadlift, keine Trap Bar vorhanden |
-| 10 | Nordic Hamstring Curl | 2 × 5 | exzentrisch 4 s | 90 s | schützt die Hamstrings bei den Sprints, in der Spielwoche streichen |
-| 11 | Standing Calf Raise | 3 × 8 | RPE 8 = ca. 125 kg | 60 s | an der Smith Machine, 2 s Pause unten |
+| 7 | Back Squat | 3 × 3 | 85 % = 90 kg | 2–3 min | in der Spielwoche 2 Sätze, nie bis zum Versagen, 2–3 RIR. Nach jedem Satz 2 maximale Sprünge ohne Last (Kontrast) |
+| 8 | Romanian Deadlift | 3 × 5 | RPE 7 = ca. 90 kg | 2 min | ersetzt das Trap Bar Deadlift, keine Trap Bar vorhanden |
+| 9 | Nordic Hamstring Curl | 2 × 5 | exzentrisch 4 s | 90 s | halbiert das Risiko für Oberschenkelverletzungen, mit Sprints erst recht Pflicht. In der Spielwoche streichen |
+| 10 | Standing Calf Raise | 3 × 8 | RPE 8 = ca. 125 kg | 60 s | an der Smith Machine, 2 s Pause unten |
 
-Gegenüber der vorigen Fassung entfallen Pogo Hops und Spanish Squat (Schlitten und Sprints
-übernehmen Aktivierung und Knieschutz) sowie der Bulgarian Split Squat. Die Copenhagen Plank
-wandert in Kraft 2.
+Aus deinem Ablauf übernommen: Schlitten, Aufwärmen, Sprints, Anlaufsprünge vor dem Power Clean,
+Power Clean 3 × 2, Waden an der Smith Machine. Aus dem Plan behalten: Pogo Hops und Nordic. Geändert:
+Sprints über 10 statt 20 m, Kontrastsprünge nach der Kniebeuge statt Jump Squats. Gestrichen:
+Spanish Squat und Bulgarian Split Squat. Die Copenhagen Plank steht in Kraft 2.
 
-Sprünge aus dieser Einheit: 6 Anlaufsprünge plus 9 Jump Squats, also 15 Kontakte. In der
-Spielwoche 0.
+Sprünge aus dieser Einheit: 20 Pogo-Kontakte, 6 Anlaufsprünge, 6 Kontrastsprünge. In der
+Spielwoche nur Pogo Hops und Kontrastsprünge, also 26.
 
-**Kurzversion, 35 min:** Punkte 1, 3, 4, 7, 9. Schlitten, Sprints mit Steigerung, Kniebeuge und
-Romanian Deadlift. Der Sprint bleibt drin, die Steigerung davor auch: maximal laufen ohne
-Vorbereitung ist das größere Risiko als der Zeitverlust.
+**Kurzversion, 35 min:** Punkte 1, 2, 4, 7, 8. Schlitten, Aufwärmen, Antritte, Kniebeuge mit
+Kontrastsprüngen und Romanian Deadlift.
 
 ## Kraft 2 — Zug, Schulter, Abbremsen
 
