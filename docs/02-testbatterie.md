@@ -40,6 +40,14 @@ Begründung: Ermüdungssensible Tests kommen zuerst, damit Ermüdung aus den sp�
 | Maximalkraft | 3RM Bench Press | nur bei schmerzfreier Schulter, sonst auslassen | kg → 1RM | — |
 | Maximalkraft | Max Chin-ups | strikt, volle ROM | Wdh | Zielkorridor 10–15 |
 
+## Asymmetrie berechnen
+
+`Asymmetrie % = (stärkeres Bein − schwächeres Bein) / stärkeres Bein × 100`
+
+Rechenbeispiel: 42 cm und 38 cm ergeben (42 − 38) / 42 × 100 = 9,5 %.
+
+Der Zielwert liegt unter 10 %. Bezugsgröße ist immer das stärkere Bein, damit die Werte über die drei Testzeitpunkte vergleichbar bleiben.
+
 ## Epley-Formel
 
 Die 1RM-Schätzung aus einem Submaximalsatz:

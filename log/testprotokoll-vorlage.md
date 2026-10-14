@@ -38,7 +38,7 @@
 | 1RM-Schätzung Squat | Epley: Gewicht × (1 + Wdh / 30), siehe [docs/02-testbatterie.md](../docs/02-testbatterie.md) | | | |
 | 1RM-Schätzung Trap Bar | Epley: Gewicht × (1 + Wdh / 30) | | | |
 | Relative Kraft Squat | 1RM Squat / Körpergewicht | | | |
-| Asymmetrie Single-leg CMJ in % | Seitendifferenz in % | | | |
+| Asymmetrie Single-leg CMJ in % | (stärkeres Bein − schwächeres Bein) / stärkeres Bein × 100, siehe [docs/02-testbatterie.md](../docs/02-testbatterie.md) | | | |
 | Differenz Approach Jump minus Block Jump | Approach Jump Reach − Block Jump Reach (cm) | | | |
 
 ## Beobachtungen
