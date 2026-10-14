@@ -73,7 +73,7 @@
 | 3 | Medizinball Rotational Throw | 3 × 6/Seite | 3 kg | 60 s | Hüfte führt, nicht die Arme |
 | 4 | Pull-up | 4 × 6–8 | RPE 7 | 2 min | bei Bedarf assistiert |
 | 5 | Single-arm DB Row | 3 × 10/Arm | RPE 7 | 90 s | ohne Rumpfrotation |
-| 6 | Incline DB Press neutral | 3 × 10 | RPE 7 | 90 s | 30° Neigung |
+| 6 | Incline DB Press neutraler Griff | 3 × 10 | RPE 7 | 90 s | 30° Neigung |
 | 7 | Prone Y-T-W | 3 × 10 je Buchstabe | leicht | 60 s | langsam, ohne Schwung |
 | 8 | Bottoms-up Kettlebell Carry | 3 × 20 m/Arm | leicht | 60 s | Schulterstabilität unter Last |
 | 9 | Side Plank mit Reach-through | 3 × 10/Seite | Körpergewicht | 45 s | — |

@@ -66,7 +66,7 @@
 | 3 | Medizinball Rotational Throw | 4 × 5/Seite | 4 kg | 75 s | — |
 | 4 | Weighted Pull-up | 4 × 5 | RPE 8 | 2 min | — |
 | 5 | Single-arm DB Row | 4 × 8/Arm | RPE 8 | 90 s | — |
-| 6 | Incline DB Press neutral | 4 × 8 | RPE 8 | 90 s | — |
+| 6 | Incline DB Press neutraler Griff | 4 × 8 | RPE 8 | 90 s | — |
 | 7 | Prone Y-T-W | 3 × 12 je | leicht | 60 s | — |
 | 8 | Bottoms-up KB Carry | 3 × 20 m/Arm | leicht-mittel | 60 s | — |
 | 9 | Hanging Leg Raise | 3 × 10 | Körpergewicht | 60 s | — |

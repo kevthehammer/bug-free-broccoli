@@ -77,7 +77,7 @@ Die Plyometrie wird nur gesteigert, wenn der Knieschmerz in Block 2 durchgehend 
 | 3 | Medizinball Rotational Scoop Throw | 4 × 4/Seite | 3 kg | 90 s | — |
 | 4 | Pull-up | 4 × 5 | RPE 7 | 2 min | — |
 | 5 | Single-arm DB Row | 4 × 8/Arm | RPE 8 | 90 s | — |
-| 6 | Incline DB Press neutral | 3 × 8 | RPE 7 | 90 s | — |
+| 6 | Incline DB Press neutraler Griff | 3 × 8 | RPE 7 | 90 s | — |
 | 7 | Prone Y-T-W | 3 × 12 je | leicht | 60 s | — |
 | 8 | Bottoms-up KB Carry | 3 × 20 m/Arm | mittel | 60 s | — |
 | 9 | Hanging Leg Raise | 3 × 10 | Körpergewicht | 60 s | — |
