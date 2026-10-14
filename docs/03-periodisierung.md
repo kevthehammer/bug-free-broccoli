@@ -2,6 +2,20 @@
 
 **Zweck dieser Datei:** Sie beschreibt den 16-Wochen-Makrozyklus mit seinen vier Blöcken, die Entlastungswochen und die Abfolge der Sehnenphasen. Außerdem legt sie fest, wie die Einheiten über das Jahr verteilt werden.
 
+## Wann dieser Makrozyklus gilt
+
+Der 16-Wochen-Makrozyklus ist ein Off-Season-Werkzeug. Er setzt voraus, dass kein Spielbetrieb
+läuft. Die tatsächliche Reihenfolge für diesen Athleten:
+
+| Phase | Zeitraum | Datei |
+| --- | --- | --- |
+| Anschliff | bis zum ersten Spiel am 31. Oktober 2026 | [docs/17-saisonstart.md](17-saisonstart.md) |
+| Saison | ab dem ersten Spieltag bis Saisonende | [docs/09-inseason.md](09-inseason.md) |
+| Off-Season | nach dem letzten Spieltag | diese Datei, Block 1 bis 4 |
+
+Der Makrozyklus beginnt also erst nach der Saison, mit einem Eingangstest nach
+[docs/02-testbatterie.md](02-testbatterie.md).
+
 ## Modell
 
 Blockperiodisierung mit 4 Blöcken à 4 Wochen nach dem Schema 3 Belastungswochen plus 1 Entlastungswoche. Die Blöcke bauen aufeinander auf, weil jede Qualität die vorherige als Basis braucht. Die Patellasehne braucht eine langsamere Progression als der Muskel, daher folgt die Sehnenbelastung einer eigenen Stufenfolge.

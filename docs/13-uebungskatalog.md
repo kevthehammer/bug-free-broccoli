@@ -59,6 +59,9 @@
 | Brustwirbelsäulen-Extension über Faszienrolle | Extension der Brustwirbelsäule auf der Faszienrolle. | Becken bleibt am Boden, Bewegung aus der Brustwirbelsäule | Open Book |
 | Open Book | Seitlage mit Rotation des oberen Armes aus der Brustwirbelsäule. | Knie bleiben aufeinander, Rotation aus der Brustwirbelsäule | Brustwirbelsäulen-Extension über Faszienrolle |
 | Hängen an der Stange | Passives Hängen an der Stange zur Mobilisation der Schulter. | nur schmerzfrei, Schultern entspannt | Brustwirbelsäulen-Extension über Faszienrolle |
+| Exzentrische Außenrotation | Außenrotation im Stand oder halbkniend, konzentrisch normal und 4 s langsam zurück | Nur die Schulter dreht, der Ellbogen bleibt am Platz | Band statt Kabelzug |
+| Medizinball Decel Catch | Ball über Kopf fangen und die Bewegung abbremsen, statt zurückzuwerfen | Den Ball weich annehmen, nicht blocken | Leichterer Ball oder kürzerer Weg |
+| Band-Abbremsen gegen die Wurfbewegung | Band zieht den Arm nach vorn, die Schlagbewegung wird kontrolliert abgebremst | Langsam gegenhalten, kein Zurückschnappen | Kabelzug mit leichter Last |
 
 ## Rumpf und Medizinball
 

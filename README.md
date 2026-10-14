@@ -18,7 +18,12 @@
 | Block 2 | 5–8 | Maximalkraft + Heavy Slow Resistance | 80–88 %, RPE 8 |
 | Block 3 | 9–12 | Schnellkraft, Kontrastmethode | 80–90 % + 30–50 % explosiv |
 | Block 4 | 13–16 | Peaking, Sprungkraftausdruck, Taper | 85–92 %, geringes Volumen |
-| In-Season | laufend | Erhalt bei 2 Einheiten/Woche | 80–85 %, kurze Einheiten |
+| In-Season | laufend | Erhalt und Aufbau je nach Wochentyp | 80–85 %, kurze Einheiten |
+
+**Wichtig:** Der 16-Wochen-Makrozyklus ist ein Off-Season-Werkzeug. Das erste Spiel ist am
+31. Oktober 2026, daher gilt jetzt zuerst [docs/17-saisonstart.md](docs/17-saisonstart.md) und
+danach [docs/09-inseason.md](docs/09-inseason.md). Der Makrozyklus beginnt nach dem letzten
+Spieltag.
 
 ## Navigation
 
@@ -41,6 +46,7 @@
 | [docs/14-warmup-mobility.md](docs/14-warmup-mobility.md) | RAMP-Aufwärmen, Mobilität, Cool-down |
 | [docs/15-progression-autoregulation.md](docs/15-progression-autoregulation.md) | Progression, Readiness-Check, Abbruchregeln |
 | [docs/16-regeneration-ernaehrung.md](docs/16-regeneration-ernaehrung.md) | Schlaf, Ernährung, Supplemente, Regeneration |
+| [docs/17-saisonstart.md](docs/17-saisonstart.md) | Anschliff bis zum ersten Spiel am 31.10.2026 |
 | [log/wochenlog-vorlage.md](log/wochenlog-vorlage.md) | Vorlage für das Wochenlog |
 | [log/testprotokoll-vorlage.md](log/testprotokoll-vorlage.md) | Vorlage für das Testprotokoll |
 
@@ -57,7 +63,8 @@
 - Sprungqualität vor Sprungvolumen.
 - Schmerzampel aus docs/11 und docs/12 schlägt jede Programmvorgabe.
 - Volleyball-Sprünge zählen zur wöchentlichen Gesamtsprungbelastung.
-- Schweres Unterkörpertraining mindestens 48 h vor einem Spiel.
+- Schweres Unterkörpertraining mindestens 48 h vor einem Spiel. In der Saison heißt das: schwere Beine nur montags.
+- Die Schulter ist der begrenzende Faktor, nicht das Knie. Drückvolumen im Gym weicht zuerst.
 
 ## Verweise
 

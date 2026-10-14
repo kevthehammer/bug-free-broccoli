@@ -4,7 +4,16 @@
 
 ## Worum es geht
 
-Patellasehnen-Tendinopathie reagiert auf dosierte Belastung, nicht auf Schonung. Die Sehne passt sich langsamer an als der Muskel, deshalb folgt sie einer eigenen Progression.
+Patellasehnen-Tendinopathie reagiert auf dosierte Belastung, nicht auf Schonung. Die Sehne passt
+sich langsamer an als der Muskel, deshalb folgt sie einer eigenen Progression.
+
+**Einordnung für diesen Athleten:** Das Knie ist aktuell beschwerdearm, das Schmerzniveau
+praktisch nicht vorhanden. Damit ist dieses Protokoll Prävention, nicht Behandlung. Konkret:
+
+- Die Isometrie aus Phase 1 bleibt, aber als Versicherung im Aufwärmen, nicht als Behandlungsblock.
+- Beim Sprungvolumen darf ans obere Ende der Vorgaben aus [docs/10-plyometrie.md](10-plyometrie.md) gegangen werden.
+- Der Deckel auf die wöchentliche Gesamtsprungzahl bleibt. In einer Sprungsportart ist er Prävention, nicht Therapie.
+- Die Schmerzampel unten bleibt unverändert gültig. Sie ist der Grund, warum die Lockerung vertretbar ist: sie fängt eine Verschlechterung auf.
 
 ## Vier Phasen
 

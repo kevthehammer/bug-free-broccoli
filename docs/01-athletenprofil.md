@@ -8,7 +8,10 @@
 - Verfügbarkeit: 4 Krafteinheiten/Woche neben Volleyballtraining
 - Equipment: vollausgestattetes Gym (Langhantel, Rack, KH, Kabelzug, Maschinen, Plyo-Boxen)
 - Vorgeschichte: Patellasehne (Jumpers Knee) UND Schulter (Impingement/Werferschulter)
-- Sportart: Volleyball, Position nicht festgelegt → Programm enthält Positions-Anpassungsmodul
+- Sportart: Volleyball, Position Außenangreifer bzw. Diagonal
+- Volleyballtraining: fest am Dienstag und Freitag. Spieltage am Samstag; in Spielwochen fällt das Freitagstraining aus
+- Saisonstart: erstes Spiel am 31. Oktober 2026, daher Saisonmodus statt Off-Season-Makrozyklus (siehe [docs/17-saisonstart.md](17-saisonstart.md))
+- Begrenzender Faktor: die Schulter, nicht das Knie
 
 ## Zielhierarchie
 
@@ -46,8 +49,8 @@ Die Reihenfolge bestimmt, welche Übungen bei Konflikten Vorrang haben.
 
 | Einschränkung | Konsequenz im Programm |
 | --- | --- |
-| Patellasehne | Sprungbelastung periodisiert und gedeckelt, Sehnenprotokoll in 4 Phasen, Schmerzampel |
-| Schulter | Zug:Druck = 2:1, Overhead-Progression statt striktem Überkopfdrücken, tägliche Mini-Dosis Prehab |
+| Patellasehne, aktuell beschwerdearm | Sprungbelastung periodisiert und gedeckelt, Sehnenprotokoll als Prävention statt Behandlung, Schmerzampel bleibt gültig |
+| Schulter, reizbar bei Fehlschlägen und bei Druckübungen | Zug:Druck 3:1 in der Saison, Überkopf-Progression bleibt auf Stufe 1, Abbremsarbeit für den Schlagarm als Pflichtteil, tägliche Mini-Dosis Prehab |
 
 ## Verweise
 
