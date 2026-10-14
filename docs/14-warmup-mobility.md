@@ -32,12 +32,12 @@
 
 | Übung | Dosierung |
 | --- | --- |
-| BWS-Extension über Faszienrolle | 2 × 10 |
+| Brustwirbelsäulen-Extension über Faszienrolle | 2 × 10 |
 | Open Book | 8/Seite |
-| Wall Slide | 10 |
+| Wall Slide mit Band | 10 |
 | Band Pull-apart | 20 |
 | Prone Y | 12 |
-| Außenrotation mit Band | 15/Arm |
+| Außenrotation in Skapulaebene | 15/Arm |
 
 ## Potentiate
 
@@ -46,6 +46,10 @@ Zwei bis drei Aufwärmsätze der ersten Hauptübung mit steigender Last, zum Bei
 ## Cool-down (optional, 5 min)
 
 Lockeres Ausfahren mit Nasenatmung. Direkt nach Schnellkrafteinheiten keine statischen Dehnungen über 30 s.
+
+## Hinweis zum Übungskatalog
+
+Die Aufwärm-Drills Radergometer oder Seilspringen, Hüftkreisen, Beinpendel, Knee-to-Wall Mobilisation, World's Greatest Stretch, Glute Bridge, Monster Walk mit Band und Bodyweight Squat mit 2 s Pause haben bewusst keinen Eintrag im Übungskatalog, weil sie nur im Aufwärmen vorkommen. Die Glute Bridge ohne Zusatzlast ist hier Aktivierung und wird nicht mit dem Hip Thrust gleichgesetzt.
 
 ## Verweise
 

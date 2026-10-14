@@ -1,6 +1,6 @@
 # Übungskatalog
 
-**Zweck dieser Datei:** Sie ist das Nachschlagewerk für alle im Programm verwendeten Übungen. Jeder Eintrag führt den Grundnamen; Intensitäts- und Ausführungsvarianten werden im Technik-Cue oder in der Alternative erwähnt.
+**Zweck dieser Datei:** Sie ist das Nachschlagewerk für alle im Programm verwendeten Übungen. Jeder Eintrag führt den Grundnamen; Intensitäts- und Ausführungsvarianten werden im Technik-Cue oder in der Alternative erwähnt. Die Einträge der Spalte Alternative sind Ersatzübungen und haben selbst keinen Katalogeintrag.
 
 ## Unterkörper beidbeinig
 
@@ -44,10 +44,8 @@
 
 | Übung | Ausführung in einem Satz | Technik-Cue | Alternative |
 | --- | --- | --- | --- |
-| Chin-up | Klimmzug im Untergriff mit voller Bewegungsamplitude. | Skapula zuerst absenken, dann ziehen | Lat Pulldown |
-| Weighted Chin-up | Chin-up mit Zusatzlast. | Zusatzlast nur bei sauberer Technik | Lat Pulldown |
-| Pull-up | Klimmzug im Obergriff mit voller Bewegungsamplitude. | Skapula zuerst absenken, Brust zur Stange | Lat Pulldown im Obergriff |
-| Weighted Pull-up | Pull-up mit Zusatzlast. | Zusatzlast nur bei sauberer Technik | Lat Pulldown |
+| Chin-up | Klimmzug im Untergriff mit voller Bewegungsamplitude, auch mit Zusatzlast. | Skapula zuerst absenken, dann ziehen; Zusatzlast nur bei sauberer Technik | Lat Pulldown |
+| Pull-up | Klimmzug im Obergriff mit voller Bewegungsamplitude, auch mit Zusatzlast. | Skapula zuerst absenken, Brust zur Stange; Zusatzlast nur bei sauberer Technik | Lat Pulldown im Obergriff |
 | Chest-supported Row | Rudern an der Schrägbank mit abgestützter Brust. | Schulterblätter zusammenführen, Nacken neutral | Single-arm DB Row |
 | Single-arm DB Row | Einarmiges Kurzhantelrudern mit abgestützter Hand. | ohne Rumpfrotation, Ellbogen nah am Körper | Chest-supported Row |
 | Face Pull | Zug am Kabelzug zum Gesicht mit Außenrotation am Endpunkt. | Ellbogen hoch, Außenrotation am Ende | Reverse Pec-Deck an der Maschine |
