@@ -40,6 +40,26 @@ Begründung: Ermüdungssensible Tests kommen zuerst, damit Ermüdung aus den sp�
 | Maximalkraft | 3RM Bench Press | nur bei schmerzfreier Schulter, sonst auslassen | kg → 1RM | — |
 | Maximalkraft | Max Chin-ups | strikt, volle ROM | Wdh | Zielkorridor 10–15 |
 
+## Die drei Reichhöhen messen
+
+Die Reichhöhe ist, wie hoch der ausgestreckte Arm kommt, nicht wie hoch gesprungen wird. Im
+Volleyball ist sie die wichtigere Zahl, weil am Netz die absolute Höhe zählt. Die Sprunghöhe ist
+die Differenz aus Sprung- und Standreichhöhe.
+
+| Wert | Ausführung |
+| --- | --- |
+| Standreichhöhe | Flach an der Wand stehen, Füße am Boden, Schlagarm maximal hoch, Schulter mitschieben. Fingerspitze markieren |
+| Blockreichhöhe | Aus dem Stand beidbeinig hoch, beide Arme |
+| Angriffsreichhöhe | Mit 3-Schritt-Anlauf, ein Arm, der Schlagarm |
+
+Durchführung: Kreide oder Magnesia an die Fingerspitzen, an einer Hallenwand erst im Stand
+antippen, dann springen und antippen, danach mit dem Maßband vom Boden zur Markierung messen.
+Aufgewärmt, aber nicht ermüdet, drei Versuche je Wert, der beste zählt.
+
+Bezugspunkt: Die Netzhöhe im Herrenbereich beträgt 2,43 m. Die Angriffsreichhöhe minus 2,43 m
+ergibt, wie weit über Netzkante geschlagen wird. Diese Zahl sagt über die Wirkung im Spiel mehr
+aus als jeder Kraftwert.
+
 ## Asymmetrie berechnen
 
 `Asymmetrie % = (stärkeres Bein − schwächeres Bein) / stärkeres Bein × 100`
