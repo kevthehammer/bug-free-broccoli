@@ -18,28 +18,28 @@ Erhalt von Maximalkraft und Sprungkraft bei minimalem Ermüdungsbeitrag. Kraft f
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Pogo Hops | 2 × 15 | — | — | — |
-| 2 | Back Squat | 3 × 3 | 85 % | — | — |
-| 3 | Trap Bar Deadlift | 3 × 3 | 82 % | — | — |
-| 4 | Bulgarian Split Squat | 2 × 6/Bein | RPE 7 | — | — |
-| 5 | Nordic Curl | 2 × 5 | — | — | — |
-| 6 | Standing Calf Raise | 3 × 10 | — | — | — |
-| 7 | Copenhagen Plank | 2 × 30 s/Seite | — | — | — |
+| 1 | Pogo Hops | 2 × 15 | Körpergewicht | 60 s | Aktivierung |
+| 2 | Back Squat | 3 × 3 | 85 % | 2–3 min | Hauptlift, nie bis zum Versagen, 2–3 RIR |
+| 3 | Trap Bar Deadlift | 3 × 3 | 82 % | 2–3 min | high handles |
+| 4 | Bulgarian Split Squat | 2 × 6/Bein | RPE 7 | 90 s | Erhalt der unilateralen Kraft |
+| 5 | Nordic Hamstring Curl | 2 × 5 | exzentrisch 4 s | 90 s | Hamstring-Schutz |
+| 6 | Standing Calf Raise | 3 × 10 | RPE 8 | 60 s | 2 s Pause unten |
+| 7 | Copenhagen Plank | 2 × 30 s/Seite | Körpergewicht | 45 s | Adduktoren |
 
 ## Einheit B — Oberkörper und Rumpf
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Schulter-Aktivierung | — | — | — | — |
-| 2 | Landmine Press | 3 × 5/Arm | — | — | — |
-| 3 | Weighted Chin-up | 3 × 5 | — | — | — |
-| 4 | Chest-supported Row | 3 × 8 | — | — | — |
-| 5 | Incline DB Press neutral | 2 × 8 | — | — | — |
-| 6 | Face Pull | 3 × 15 | — | — | — |
-| 7 | Außenrotation | 3 × 15/Arm | — | — | — |
-| 8 | Serratus Push-up Plus | 3 × 12 | — | — | — |
-| 9 | Pallof Press | 3 × 12/Seite | — | — | — |
-| 10 | Medizinball Rotational Throw | 3 × 5/Seite | — | — | — |
+| 1 | Schulter-Aktivierung | je 2 Sätze | leicht | 30 s | Band Pull-apart, Wall Slide, Prone Y |
+| 2 | Landmine Press | 3 × 5/Arm | RPE 7 | 2 min | schulterfreundliche Überkopf-Alternative |
+| 3 | Weighted Chin-up | 3 × 5 | RPE 7 | 2 min | — |
+| 4 | Chest-supported Row | 3 × 8 | RPE 7 | 90 s | Zugvolumen vor Druckvolumen |
+| 5 | Incline DB Press neutraler Griff | 2 × 8 | RPE 7 | 90 s | 30° Neigung |
+| 6 | Face Pull | 3 × 15 | leicht | 60 s | mit Außenrotation am Endpunkt |
+| 7 | Außenrotation in Skapulaebene | 3 × 15/Arm | leicht | 45 s | Oberarm ca. 30° abduziert |
+| 8 | Serratus Push-up Plus | 3 × 12 | Körpergewicht | 45 s | — |
+| 9 | Pallof Press | 3 × 12/Seite | mittel | 45 s | Anti-Rotation |
+| 10 | Medizinball Rotational Throw | 3 × 5/Seite | 3 kg | 75 s | Hüfte führt |
 
 ## Spielwoche
 

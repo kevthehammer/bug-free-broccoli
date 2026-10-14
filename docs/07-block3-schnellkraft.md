@@ -52,7 +52,7 @@ Die Plyometrie wird nur gesteigert, wenn der Knieschmerz in Block 2 durchgehend 
 | 4 | Plyo Push-up auf Erhöhung | 4 × 4 | Körpergewicht | 90 s | erhöhte Hände schonen die Schulter |
 | 5 | Chest-supported Row | 4 × 8 | RPE 8 | 90 s | — |
 | 6 | Face Pull | 3 × 15 | leicht | 60 s | — |
-| 7 | Außenrotation Skapulaebene | 3 × 15/Arm | leicht | 45 s | — |
+| 7 | Außenrotation in Skapulaebene | 3 × 15/Arm | leicht | 45 s | — |
 | 8 | Serratus Push-up Plus | 3 × 12 | Körpergewicht | 45 s | — |
 | 9 | Pallof Press mit Rotation | 3 × 10/Seite | mittel | 45 s | — |
 

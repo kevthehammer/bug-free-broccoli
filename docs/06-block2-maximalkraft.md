@@ -35,13 +35,13 @@
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Schulter-Aktivierung (Band Pull-apart, Wall Slide, Prone Y) | je 2 Sätze | leicht | 30 s | Pflichtteil |
+| 1 | Schulter-Aktivierung | je 2 Sätze | leicht | 30 s | Band Pull-apart, Wall Slide, Prone Y; Pflichtteil |
 | 2 | Landmine Press | 5 × 5/Arm | RPE 8 | 2 min | — |
 | 3 | Weighted Chin-up | 5 × 4 | RPE 8 | 2 min | Zusatzlast nur bei sauberer Technik |
-| 4 | DB Bench Press neutral | 4 × 6 | RPE 8 | 2 min | — |
+| 4 | DB Bench Press neutraler Griff | 4 × 6 | RPE 8 | 2 min | — |
 | 5 | Chest-supported Row | 4 × 8 | RPE 8 | 90 s | — |
 | 6 | Face Pull | 3 × 15 | leicht | 60 s | — |
-| 7 | Außenrotation Skapulaebene | 3 × 15/Arm | leicht | 45 s | — |
+| 7 | Außenrotation in Skapulaebene | 3 × 15/Arm | leicht | 45 s | — |
 | 8 | Serratus Push-up Plus | 3 × 12 | Körpergewicht | 45 s | — |
 | 9 | Pallof Press | 3 × 12/Seite | mittel | 45 s | — |
 

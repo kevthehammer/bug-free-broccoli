@@ -68,7 +68,7 @@
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Schulter-Aktivierung wie T2 Punkt 1–3 | je 2 Sätze | leicht | 30 s | Pflichtteil |
+| 1 | Schulter-Aktivierung | je 2 Sätze | leicht | 30 s | Band Pull-apart, Wall Slide mit Band, Prone Y (wie T2 Punkt 1–3); Pflichtteil |
 | 2 | Medizinball Overhead Slam | 4 × 6 | 3 kg | 60 s | maximale Absicht, Rumpf→Arm-Übertragung |
 | 3 | Medizinball Rotational Throw | 3 × 6/Seite | 3 kg | 60 s | Hüfte führt, nicht die Arme |
 | 4 | Pull-up | 4 × 6–8 | RPE 7 | 2 min | bei Bedarf assistiert |

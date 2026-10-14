@@ -50,7 +50,7 @@ Depth Jumps werden nur durchgeführt, wenn das Knie über die letzten 4 Wochen b
 | 4 | Plyo Push-up auf Erhöhung | 3 × 4 | Körpergewicht | 90 s | — |
 | 5 | Chest-supported Row | 3 × 8 | RPE 7 | 90 s | — |
 | 6 | Face Pull | 3 × 15 | leicht | 60 s | — |
-| 7 | Außenrotation Skapulaebene | 3 × 15/Arm | leicht | 45 s | — |
+| 7 | Außenrotation in Skapulaebene | 3 × 15/Arm | leicht | 45 s | — |
 | 8 | Serratus Push-up Plus | 3 × 12 | Körpergewicht | 45 s | — |
 
 ## T3 Unterkörper unilateral + COD
