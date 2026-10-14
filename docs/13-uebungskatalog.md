@@ -7,6 +7,7 @@
 | Übung | Ausführung in einem Satz | Technik-Cue | Alternative |
 | --- | --- | --- | --- |
 | Back Squat | Langhantelkniebeuge mit der Last auf dem oberen Rücken bis zur kontrollierten Tiefe. | Brust aufrecht, Knie in Fußrichtung, Druck durch den ganzen Fuß | Leg Press |
+| Power Clean | Explosives Umsetzen der Langhantel vom Boden in den Frontstütz, ohne tief darunter zu tauchen. | Die Hüfte streckt, bevor die Arme ziehen. Wird die Wiederholung langsam, ist der Satz vorbei | Hang Power Clean oder Jump Shrug |
 | Trap Bar Deadlift | Kreuzheben mit der Trap Bar aus dem Stand, Hüfte und Knie strecken sich gemeinsam (high handles). | Rücken neutral, Druck durch die Füße, Last nah am Körper | konventionelles Kreuzheben mit Langhantel |
 | Romanian Deadlift | Hüftscharnier mit leicht gebeugten Knien, die Last gleitet an den Oberschenkeln entlang. | Hüfte nach hinten schieben, Schienbein senkrecht, Rücken gerade | Rumänisches Kreuzheben mit Kurzhanteln |
 | Nordic Hamstring Curl | Exzentrisches Absenken des Oberkörpers aus dem Kniestand, Fersen fixiert, die Hamstrings bremsen kontrolliert. | Hüfte gestreckt halten, langsam absenken, Hände nur zum Abfangen | Leg Curl mit betonter exzentrischer Phase |

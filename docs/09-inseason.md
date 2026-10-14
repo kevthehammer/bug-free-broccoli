@@ -61,8 +61,8 @@ Spiel am Samstag, kein Volleyballtraining am Freitag. Zwei Krafteinheiten.
 | --- | --- | --- | --- | --- | --- |
 | 1 | Pogo Hops | 2 × 15 | Körpergewicht | 60 s | Aktivierung, steifes Sprunggelenk |
 | 2 | Spanish Squat | 3 × 30 s | ca. 70 % MVC | 90 s | isometrisch halten, Knie-Versicherung im Aufwärmen |
-| 3 | Back Squat | 3 × 3 | 85 % | 2–3 min | in der Spielwoche 2 Sätze, nie bis zum Versagen, 2–3 RIR |
-| 4 | Trap Bar Deadlift | 3 × 3 | 82 % | 2–3 min | high handles, in der Spielwoche 2 Sätze |
+| 3 | Back Squat | 3 × 3 | 85 % = 90 kg | 2–3 min | in der Spielwoche 2 Sätze, nie bis zum Versagen, 2–3 RIR |
+| 4 | Romanian Deadlift | 3 × 5 | RPE 7 = ca. 90 kg | 2 min | ersetzt das Trap Bar Deadlift, keine Trap Bar vorhanden |
 | 5 | Bulgarian Split Squat | 2 × 6/Bein | RPE 7 | 90 s | Erhalt der unilateralen Kraft |
 | 6 | Nordic Hamstring Curl | 2 × 5 | exzentrisch 4 s | 90 s | Hamstringschutz, in der Spielwoche streichen |
 | 7 | Standing Calf Raise | 3 × 10 | RPE 8 | 60 s | 2 s Pause unten |
@@ -97,8 +97,8 @@ Nur in der freien Woche. Diese Einheit ist der Grund, warum freie Wochen Aufbauw
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Pogo Hops | 2 × 15 | Körpergewicht | 60 s | Aktivierung |
-| 2 | Kontrast: Back Squat | 3 × 3 | 80 % | 90 s | gefolgt von Punkt 3 |
-| 3 | Kontrast: Vertical Box Jump | 3 × 3 | Körpergewicht | 2 min | maximale Absicht, weich landen, folgt auf Punkt 2 |
+| 2 | Power Clean | 4 × 2 | 70 kg | 2–3 min | Streckschleife gegen Zeit. Wird die zweite Wiederholung langsam, ist der Satz vorbei |
+| 3 | Vertical Box Jump | 3 × 3 | Körpergewicht | 2 min | maximale Absicht, weich und aktiv landen |
 | 4 | Anlaufsprung | 6 × 2 | Körpergewicht | 2 min | auf Reichhöhe, volle Erholung, Positionsschwerpunkt |
 | 5 | Lateral Bound | 3 × 4/Seite | Körpergewicht | 90 s | Landung halten |
 | 6 | Hip Thrust | 3 × 6 | RPE 7 | 90 s | 1 s Pause oben |
@@ -145,3 +145,4 @@ Schulter-Prehab. Das Prehab läuft täglich weiter und wird nie als Erstes gestr
 - [docs/15-progression-autoregulation.md](15-progression-autoregulation.md)
 - [docs/17-saisonstart.md](17-saisonstart.md)
 - [docs/18-saisonkalender.md](18-saisonkalender.md)
+- [docs/19-arbeitsgewichte.md](19-arbeitsgewichte.md)

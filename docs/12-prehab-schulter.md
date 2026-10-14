@@ -41,7 +41,7 @@ physiotherapeutisch oder ärztlich angeschaut.
 | Nackendrücken | extreme Außenrotation plus Abduktion | Landmine Press |
 | Latzug in den Nacken | gleiche Belastung | Latzug zur Brust oder Chin-up |
 | Aufrechtes Rudern | Innenrotation unter Abduktion, Impingement-Position | Face Pull |
-| Tiefe Dips | Vordehnung der vorderen Kapsel | Enger Bankdrücken mit neutralem Griff |
+| Tiefe Dips | Vordehnung der vorderen Kapsel. **Werden aktuell mit 12,5 kg Zusatzlast trainiert und sind damit der plausibelste einzelne Beitrag aus dem Krafttraining zur Schulterreizung. Für die Saison aussetzen**, siehe [docs/19-arbeitsgewichte.md](19-arbeitsgewichte.md) | Enger Bankdrücken mit neutralem Griff |
 | Bankdrücken mit stark abgespreizten Ellbogen | vordere Schulterbelastung | Ellbogen ca. 45°, neutraler KH-Griff |
 | Aggressiver Sleeper Stretch | Kapselreizung | Cross-body-Dehnung mit fixierter Skapula |
 
