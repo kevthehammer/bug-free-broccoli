@@ -61,6 +61,23 @@ physiotherapeutisch oder ärztlich angeschaut.
 | Bankdrücken mit stark abgespreizten Ellbogen | vordere Schulterbelastung | Ellbogen ca. 45°, neutraler KH-Griff |
 | Aggressiver Sleeper Stretch | Kapselreizung | Cross-body-Dehnung mit fixierter Skapula |
 
+## Schulter-Aufwärmen vor der Halle (ca. 10 min)
+
+Nach dem OSTRC-Schulterprogramm, dem bestbelegten Präventionsprogramm für Überkopfsportler: 3× pro
+Woche im Aufwärmen senkte es Schulterprobleme um 28 % (Andersson 2017). Vor jedem eigenen
+Hallentraining und vor dem Spiel, Ziel mindestens 3× pro Woche. An diesen Tagen ersetzt es die
+Mini-Dosis.
+
+| Übung | Sätze × Wdh | Steigerung |
+| --- | --- | --- |
+| Cross-body-Dehnung, Schulterblatt fixiert | 2 × 30 s/Arm | ruhig dehnen, nie in den Schmerz |
+| Brustwirbelsäulen-Rotation im Vierfüßlerstand | 2 × 10/Seite | — |
+| Außenrotation mit Band | 3 × 10/Arm | Stufe 1 Ellbogen am Körper, Stufe 2 Arm 90° seitlich angehoben, Stufe 3 Drop-and-catch mit leichtem Ball |
+| Y-Flies mit Band, vorgebeugt | 3 × 10 | Stufe 2 einarmig, langsam zurück |
+| Plank mit Push-up plus | 2 × 10 | Stufe 2 Arme auf Ball oder Band um die Handgelenke |
+
+Eine Stufe höher, wenn die aktuelle Stufe drei Wochen sauber und schmerzfrei läuft.
+
 ## Tägliche Mini-Dosis (5–8 min)
 
 | Übung | Sätze × Wdh |
@@ -93,9 +110,9 @@ normalen Krafttraining nicht trainiert.
 
 | Übung | Sätze × Wdh | Ausführung |
 | --- | --- | --- |
-| Exzentrische Außenrotation | 3 × 8/Arm | konzentrisch normal, 4 s langsam zurück in die Innenrotation |
+| Außenrotation schwer | 3 × 6/Arm | RPE 8, konzentrisch normal, 3 s langsam zurück in die Innenrotation |
 | Medizinball Decel Catch | 3 × 6/Seite | Ball über Kopf fangen und abbremsen, nicht zurückwerfen |
-| Band-Abbremsen gegen die Wurfbewegung | 3 × 10/Arm | Band zieht nach vorn, die Schlagbewegung wird kontrolliert abgebremst |
+| Band-Abbremsen gegen die Wurfbewegung | im Schulter-Aufwärmen | seit 14.10.2026 Teil des Aufwärmens vor der Halle, Stufe 3 |
 
 Zweimal pro Woche, in jeder Oberkörpereinheit. In der Spielwoche bleibt dieser Abschnitt
 vollständig, auch wenn das Drücken entfällt.

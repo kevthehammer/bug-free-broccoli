@@ -50,6 +50,19 @@ Details zum Sehnenprotokoll stehen in [docs/11-prehab-knie.md](11-prehab-knie.md
 
 Danach folgt entweder der In-Season-Modus nach [docs/09-inseason.md](09-inseason.md) oder ein zweiter Makrozyklus mit Startwerten aus dem Re-Test.
 
+## Vorgemerkt für die Off-Season 2027
+
+Aus [docs/21-grosse-recherche.md](21-grosse-recherche.md), beim Aufsetzen des Makrozyklus nach dem
+letzten Spieltag (13.02.2027) einarbeiten:
+
+- **Schwerpunkt Maximalkraft.** Kniebeuge-Ziel für 6–12 Monate ca. 125–135 kg (1,7–1,9× KG).
+  Unter ca. 2× KG bringt Kraft mehr als Schnellkraft (Suchomel 2016, James 2017).
+- **Plyometrie 2× pro Woche über 8–12 Wochen**, von Kastensprüngen über Countermovement und Depth
+  Jumps zu Anlaufsprüngen.
+- **Übergewichtige Exzentrik spät** als 3- bis 5-Wochen-Block (Sheppard 2008).
+- **Einbeinige Arbeit ergänzen** (Liao 2022).
+- **Pause nach der Saison höchstens 2–3 Wochen** (McMaster 2013).
+
 ## Jahresplanung
 
 | Saisonphase | Modus | Einheiten/Woche |

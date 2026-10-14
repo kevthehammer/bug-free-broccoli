@@ -28,6 +28,17 @@ Dies ist eine allgemeine Orientierung und keine individuelle Ernährungsberatung
 
 Supplemente ersetzen ein gutes Training nicht.
 
+## Deine drei Stellschrauben
+
+Stand 14.10.2026, aus [docs/21-grosse-recherche.md](21-grosse-recherche.md). Diese drei Punkte sind
+besser belegt als jedes Trainingsdetail in diesem Programm.
+
+| Was | Für dich | Beleg |
+| --- | --- | --- |
+| Kreatin-Monohydrat | 3–5 g täglich, auch an trainingsfreien Tagen, keine Ladephase nötig | Kniebeuge +5,6 kg, Sprung +1,5 cm im Schnitt (Kazeminasab 2025) |
+| Protein | ca. 115 g pro Tag (1,6 g/kg bei 72 kg), auf 3–4 Mahlzeiten | über 1,6 g/kg kein messbarer Zusatznutzen für Muskelaufbau (Morton 2018) |
+| Schlaf | 8–9 h, feste Zeiten; vor Spieltagen eher früher ins Bett | 46–113 min mehr Schlaf verbesserte die Leistung in allen Studien |
+
 ## Belastungsmanagement
 
 Volleyball und Krafttraining bilden eine gemeinsame Belastung. Die wöchentliche Gesamtsprungzahl wird deshalb begrenzt. Nach Turnieren oder Doppelspieltagen wird die folgende Krafteinheit auf Variante B reduziert (siehe [docs/15-progression-autoregulation.md](15-progression-autoregulation.md)).

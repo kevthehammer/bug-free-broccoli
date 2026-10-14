@@ -34,9 +34,17 @@ praktisch nicht vorhanden. Damit ist dieses Protokoll Prävention, nicht Behandl
 
 ## Monitoring
 
-- Tägliche Schmerzbewertung morgens auf der Skala 0–10 vor dem Aufstehen.
-- VISA-P alle 4 Wochen.
-- Single-leg Decline Squat als Reiztest einmal pro Woche.
+- **Knie-Check am Morgen:** einbeinige Kniebeuge auf schräger Unterlage (Fersen ca. 25° erhöht,
+  z. B. auf Hantelscheiben), bis ca. 60° Kniebeugung, je Bein. Schmerz an der Patellasehne 0–10
+  in der App eintragen. Die Zahl wird mit der Ampel unten gelesen. Steigt sie über mehrere Tage,
+  ist das das früheste Warnzeichen.
+- **VISA-P alle 4 Wochen:** acht Fragen, 0–100 Punkte, die deutsche Fassung heißt VISA-P-G
+  (Lohrer & Nauck 2011). Gesunde Sportler liegen meist über 90. Fällt der Wert gegenüber dem
+  Vormonat um mehr als ca. 10 Punkte, wie gelb behandeln. Die Punktzahl kommt in die App.
+- **Sprünge zählen:** in der App nach jedem Hallentraining und Spiel grob eintragen, siehe
+  [docs/09-inseason.md](09-inseason.md).
+
+Quelle: [docs/21-grosse-recherche.md](21-grosse-recherche.md), Lücke 6.
 
 ## Technikhinweise Spanish Squat
 

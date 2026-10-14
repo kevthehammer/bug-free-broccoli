@@ -103,9 +103,9 @@ Freigabebedingung.
 | 2 | Weighted Chin-up | 3 × 5 | RPE 7 = +15 kg | 2 min | Zugvolumen trägt die Einheit |
 | 3 | Chest-supported Row | 3 × 8 | RPE 7 | 90 s | Brust aufgelegt, kein Schwung |
 | 4 | Single-arm DB Row | 2 × 10/Arm | RPE 7 | 90 s | ohne Rumpfrotation |
-| 5 | Exzentrische Außenrotation | 3 × 8/Arm | langsam, 4 s zurück | 60 s | Abbremskraft für den Schlagarm |
+| 5 | Außenrotation schwer | 3 × 6/Arm | RPE 8, 3 s zurück | 75 s | Kabelzug oder Kurzhantel seitlich liegend. Steigern, sobald 6 Wiederholungen sauber gehen. Schwere, exzentrisch betonte Außenrotation schützt die Schulter (Forthomme 2013) |
 | 6 | Medizinball Decel Catch | 3 × 6/Seite | 3 kg | 75 s | Ball über Kopf fangen und abbremsen, nicht zurückwerfen |
-| 7 | Band-Abbremsen gegen die Wurfbewegung | 3 × 10/Arm | leicht | 60 s | Band zieht nach vorn, du bremsst die Schlagbewegung ab |
+| 7 | Medizinball-Wurf über Kopf | 3 × 6 | 2 kg, maximal schnell | 75 s | beidarmig wie ein Einwurf gegen die Wand. Nur bei grüner Schulterampel, sonst Brustpass. Das Band-Abbremsen steckt jetzt im Schulter-Aufwärmen vor der Halle |
 | 8 | Face Pull | 3 × 15 | leicht | 60 s | mit Außenrotation am Endpunkt |
 | 9 | Serratus Push-up Plus | 3 × 12 | Körpergewicht | 45 s | bei Reizung abbrechen |
 | 10 | Landmine Press | 2 × 8/Arm | RPE 6 | 90 s | nur wenn die Schulter die ganze Vorwoche ruhig war, sonst streichen |
@@ -114,6 +114,9 @@ Freigabebedingung.
 | 13 | Copenhagen Plank | 2 × 30 s/Seite | Körpergewicht | 45 s | Adduktoren, aus Kraft 1 hierher verschoben |
 
 In der Spielwoche entfallen Punkt 9 und 10, die übrigen bleiben vollständig.
+
+Punkt 5 und 7 seit 14.10.2026 nach [docs/21-grosse-recherche.md](21-grosse-recherche.md): schwerere
+Außenrotation und Oberkörper-Plyometrie (Schlaggeschwindigkeit in der Saison +3,8 %).
 
 **Kurzversion, 30 min:** Punkte 1, 2, 3, 5, 6, 8. Aktivierung, Zug, Abbremsarbeit, Face Pull. Die
 Abbremsarbeit bleibt auch in der Kurzversion drin — sie ist der Grund für die Einheit.
@@ -157,6 +160,14 @@ Die Spieltage und der vollständige Wochenkalender stehen in
 
 Volleyballsprünge zählen mit, eine Einheit sind grob 80 bis 150. Zählweise und Steigerungsregel
 stehen in [docs/10-plyometrie.md](10-plyometrie.md).
+
+## Schläge und Sprünge zählen
+
+Nach jedem Hallentraining und Spiel trägst du in der App grob ein, wie viele Angriffsschläge und
+Sprünge es waren. Schätzen reicht. Die App vergleicht die laufende Woche mit dem Schnitt der
+letzten vier Wochen. Liegt sie mehr als 60 % darüber, warnt sie: Ein solcher Sprung verdoppelte im
+Handball das Schulterrisiko (Møller 2017), beim Springerknie zählt jede zusätzliche Wochenstunde
+(Visnes & Bahr). Dann in dieser Woche Kraft 3 streichen und im Training weniger Angriffe schlagen.
 
 ## Wenn eine Einheit ausfällt
 
