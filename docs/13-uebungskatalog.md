@@ -16,6 +16,9 @@
 | Heavy Slow Resistance Squat oder Leg Press | Langsame Kniebeuge oder Beinpresse im Tempo 3-0-3 als Hauptform der Sehnenphase 2. | Tempo 3-0-3, Knie über Mittelfuß, keine Pause unten | Back Squat im Tempo 3-0-3 |
 | Spanish Squat | Isometrische Kniebeuge mit Band hinter den Knien bei ca. 60° Kniewinkel, Halten über 45 s. | Schienbein senkrecht, Oberkörper aufrecht, Last über Zurücklehnen regulieren | Wandsitz mit Zusatzlast |
 | Wandsitz | Isometrisches Halten in der Wand-Kniebeuge bei ca. 60° Kniewinkel. | Rücken an der Wand, Knie über Mittelfuß | Spanish Squat |
+| Schlitten rückwärts ziehen | Rückwärtsgehen mit Zuggurt am beladenen Schlitten, kontinuierlicher Zug ohne Pause. | kleine Schritte, Knie schieben über die Zehen, Oberkörper aufrecht | Rückwärtsgehen am Kabelzug |
+| Aufwärmen Kniebeuge und Ausfallschritt | Kniebeugen ohne Last, danach Ausfallschritte mit weit nach vorn geschobenem Knie. | Knie darf über die Zehen, hinten in die Hüftdehnung sinken | Knee-over-toes Split Squat |
+| Jump Squat | Sprung aus der Viertelkniebeuge mit leichter Langhantel auf dem Rücken. | maximale Absicht, weich und aktiv landen | Trap Bar Jump |
 | Tibialis Raise | Fußheben gegen Widerstand zur Isolierung der Schienbeinmuskulatur. | Ferse bleibt in Kontakt, Fußspitze zum Schienbein ziehen | Tibialis Raise am Kabelzug |
 
 ## Unterkörper einbeinig
@@ -93,6 +96,7 @@
 | Lateral Bound | Einbeiniger seitlicher Sprung mit Landung und Halten. | kontrolliert landen und halten | Single-leg Bound |
 | Broad Jump | Beidbeiniger Weitsprung aus dem Stand mit Landung halten. | Landung halten | Vertical Box Jump |
 | Vertical Box Jump | Beidbeiniger vertikaler Sprung auf eine Box. | weich und aktiv landen, maximale Absicht | Broad Jump |
+| Sprint | Gerader Antritt über 20 m aus dem Stand oder aus dem Hochstart, als Steigerung submaximal. | Oberkörper nach vorn geneigt, kräftiger Abdruck, Arme aktiv | Bergsprint |
 | Anlaufsprung | Angriffssprung mit 3-Schritt-Anlauf, Horizontal- in Vertikalbewegung umgewandelt. | auf Reichhöhe, volle Erholung zwischen den Sprüngen | Vertical Box Jump |
 | Trap Bar Jump | Sprung aus der Trap Bar mit leichter Last. | maximale Beschleunigung | Vertical Box Jump |
 | 5-10-5 Pro-Agility | Richtungswechsel-Lauf 5-10-5 mit Start- und Wendepunkt. | vollständige Pausen, Qualität vor Menge | T-Test |
