@@ -25,6 +25,9 @@ einzelne RCTs oder gute Kohorten, **schwach** = kleine Studien, Korrelationen, P
 
 ## Wo die Forschung Lücken im Plan zeigt
 
+Am 14.10.2026 übernommen: Lücken 1–4 und 6–8 sowie die Off-Season-Punkte (vorgemerkt in
+[docs/03-periodisierung.md](03-periodisierung.md)). Lücke 5 entfällt, weil Kev noch nie umgeknickt ist.
+
 | # | Lücke | Befund | Stärke |
 | --- | --- | --- | --- |
 | 1 | **Schulterprogramm vor der Halle fehlt** | OSTRC: 3× pro Woche ca. 10 min im Aufwärmen, 5 Übungen (Plank mit Push-up plus, Y-Flies, Rumpfrotation, Außenrotation mit Band bis Drop-and-catch und Rückwärtswurf, Cross-body-Dehnung). Skapula-Dyskinesie ist der einzige veränderbare Risikofaktor mit Volleyball-Kohortendaten (OR 3,9, de Toledo 2025) | mittel |
