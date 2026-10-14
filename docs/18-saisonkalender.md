@@ -65,8 +65,12 @@ Saisonmodus, mit zwei Anpassungen:
 
 | Woche | Inhalt |
 | --- | --- |
-| KW 47 bis 49 | Block 2, aber T2 und T4 nach der Schulterregel aus docs/09: kein schweres Drücken, Abbremsarbeit bleibt Pflichtteil |
+| KW 47 bis 49 | Block 2, aber nach der Schulterregel aus docs/09: kein schweres Drücken, Abbremsarbeit bleibt Pflichtteil. Bei nur zwei Slots die Unterkörpereinheiten des Blocks priorisieren |
 | KW 50 | Volumen minus 40 %, Intensität bleibt. Vorbereitung auf Spieltag 3 |
+
+Der Block setzt drei Slots pro Woche voraus. Bleiben nur zwei, wird er trotzdem gefahren, aber
+mit zwei Unterkörper- und einer Oberkörpereinheit über zwei Wochen verteilt statt vier Einheiten
+pro Woche.
 
 Die beiden Wochen über Weihnachten (KW 52 und 53) und die Paare KW 2/3 und KW 5 sind zu kurz für
 einen eigenen Block. Dort gilt der Saisonmodus als Aufbauwoche nach
@@ -79,7 +83,7 @@ einen eigenen Block. Dort gilt der Saisonmodus als Aufbauwoche nach
 | Freitag davor | Frei. Kein Volleyball, kein Krafttraining, höchstens 10 min Aktivierung |
 | Samstag | Zwei Spiele. Zwischen den Spielen in Bewegung bleiben, nicht auskühlen |
 | Sonntag danach | Frei |
-| Montag danach | Kraft A normal. Die Beine hatten zwei Tage Erholung |
+| Montag danach | Kraft 1 normal. Die Beine hatten zwei Tage Erholung |
 | Woche danach | **Drückvolumen null.** Auch Landmine Press entfällt, unabhängig von der Freigabe. Schulter-Mini-Dosis und Abbremsarbeit laufen normal weiter |
 
 Die letzte Zeile ist die wichtigste. An ihr entscheidet sich über zwölf Spiele hinweg, ob die

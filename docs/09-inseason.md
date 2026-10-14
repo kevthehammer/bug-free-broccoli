@@ -1,16 +1,55 @@
 # In-Season
 
-**Zweck dieser Datei:** Sie legt fest, wie in der Saison trainiert wird. Zwei Wochentypen,
-abgeleitet aus festem Volleyballtraining am Dienstag und Freitag und Spieltagen am Samstag:
-freie Wochen sind Aufbauwochen, Spielwochen sind Erhaltungswochen.
+**Zweck dieser Datei:** Sie legt fest, wie in der Saison trainiert wird. Das Programm ist nicht an
+feste Wochentage gebunden, sondern an die Anzahl der Einheiten, die in einer Woche tatsächlich
+übrig bleiben. Je nach Slot-Zahl wird von oben aufgefüllt.
 
-## Die Grundregel
+## Die Woche, wie sie wirklich aussieht
 
-Schwere Beine nur montags. In der freien Woche kommt donnerstags eine zweite Beineinheit dazu,
-in der Spielwoche nicht.
+| Tag | Was ansteht | Kraft möglich |
+| --- | --- | --- |
+| Montag | — | **ja** |
+| Dienstag | Damentraining als Trainer, danach eigenes Herrentraining | nein |
+| Mittwoch | — | **ja** |
+| Donnerstag | Damentraining als Trainer | nein |
+| Freitag | eigenes Herrentraining | nein |
+| Samstag | Spieltag oder frei | nur in freien Wochen |
+| Sonntag | — | möglich, aber ungünstig vor Montag |
 
-Fällt das Volleyballtraining am Freitag wegen eines Samstagsspiels aus, wird der Freitag nicht
-mit Krafttraining gefüllt. Das ist der Erholungstag vor dem Spiel.
+Daraus folgen zwei verlässliche Slots pro Woche und ein dritter, der vom Spielplan abhängt.
+Der Dienstag ist der härteste Tag der Woche: Trainertätigkeit und eigenes Training hintereinander.
+Er ist kein Erholungstag, auch wenn kein Krafttraining darin steht.
+
+## Die drei Einheiten nach Priorität
+
+Es gibt keine feste Zuordnung zu Wochentagen. Es gibt eine Reihenfolge, und die Woche wird von
+oben aufgefüllt.
+
+| Priorität | Einheit | Dauer | Wird gestrichen wenn |
+| --- | --- | --- | --- |
+| 1 | Kraft 1 — Unterkörper und Power | 65–75 min | nie |
+| 2 | Kraft 2 — Zug, Schulter, Abbremsen | 50–60 min | nur bei einer einzigen Einheit in der Woche |
+| 3 | Kraft 3 — Sprungkraft und Athletik | 40–50 min | sobald die Zeit fehlt |
+
+| Slots in der Woche | Was gemacht wird |
+| --- | --- |
+| 1 | Kraft 1, notfalls als Kurzversion. Die Schulter-Mini-Dosis läuft trotzdem täglich |
+| 2 | Kraft 1 und Kraft 2 |
+| 3 | Kraft 1, Kraft 2 und Kraft 3 |
+
+Der Power Clean steht bewusst in Kraft 1 und nicht in Kraft 3. Bei nur zwei Slots wäre die
+Schnellkraft sonst das Erste, was wegfällt — und genau sie trägt den Sprung.
+
+## Standardbelegung
+
+| Wochentyp | Montag | Mittwoch | Samstag |
+| --- | --- | --- | --- |
+| Freie Woche | Kraft 1 | Kraft 2 | Kraft 3 |
+| Spielwoche | Kraft 1, reduziert | Kraft 2, ohne Drücken | Spieltag |
+
+Fällt der Montag aus, rutscht Kraft 1 auf den Mittwoch und Kraft 2 auf das Wochenende. Die
+Reihenfolge bleibt, die Tage sind verschiebbar. Sonntag ist möglich, aber ungünstig: dann liegen
+nur 24 h bis zum Montag.
 
 ## Der begrenzende Faktor
 
@@ -24,51 +63,24 @@ Gym als Erstes reduziert. Daraus folgen drei Festlegungen für die gesamte Saiso
 
 Details in [docs/12-prehab-schulter.md](12-prehab-schulter.md).
 
-## Freie Woche — Aufbauwoche
-
-Kein Spiel am Samstag, Volleyball am Dienstag und Freitag. Drei Krafteinheiten.
-
-| Tag | Volleyball | Kraft |
-| --- | --- | --- |
-| Mo | — | Kraft A, Unterkörper schwer |
-| Di | Volleyball | — |
-| Mi | — | Kraft B, Zug, Schulter, Abbremsen |
-| Do | — | Kraft C, Sprungkraft und Anlaufsprung |
-| Fr | Volleyball | — |
-| Sa | — | frei, oder Rumpf und Medizinball locker |
-| So | — | frei |
-
-Zwischen Kraft A am Montag und Kraft C am Donnerstag liegen 72 h. Das ist der Grund, warum die
-zweite Beineinheit nur in dieser Woche möglich ist.
-
-## Spielwoche — Erhaltungswoche
-
-Spiel am Samstag, kein Volleyballtraining am Freitag. Zwei Krafteinheiten.
-
-| Tag | Volleyball | Kraft |
-| --- | --- | --- |
-| Mo | — | Kraft A, Unterkörper schwer, 2 Arbeitssätze je Hauptübung |
-| Di | Volleyball | — |
-| Mi | — | Kraft B gekürzt, kein Drücken |
-| Do | — | Mobilität und Prehab, 20 min |
-| Fr | — | frei. Erholungstag |
-| Sa | Spiel | — |
-| So | — | frei |
-
-## Kraft A — Unterkörper schwer
+## Kraft 1 — Unterkörper und Power
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Pogo Hops | 2 × 15 | Körpergewicht | 60 s | Aktivierung, steifes Sprunggelenk |
 | 2 | Spanish Squat | 3 × 30 s | ca. 70 % MVC | 90 s | isometrisch halten, Knie-Versicherung im Aufwärmen |
-| 3 | Back Squat | 3 × 3 | 85 % = 90 kg | 2–3 min | in der Spielwoche 2 Sätze, nie bis zum Versagen, 2–3 RIR |
-| 4 | Romanian Deadlift | 3 × 5 | RPE 7 = ca. 90 kg | 2 min | ersetzt das Trap Bar Deadlift, keine Trap Bar vorhanden |
-| 5 | Bulgarian Split Squat | 2 × 6/Bein | RPE 7 | 90 s | Erhalt der unilateralen Kraft |
-| 6 | Nordic Hamstring Curl | 2 × 5 | exzentrisch 4 s | 90 s | Hamstringschutz, in der Spielwoche streichen |
-| 7 | Standing Calf Raise | 3 × 10 | RPE 8 | 60 s | 2 s Pause unten |
-| 8 | Copenhagen Plank | 2 × 30 s/Seite | Körpergewicht | 45 s | Adduktoren |
+| 3 | Power Clean | 4 × 2 | 70 kg | 2–3 min | in der Spielwoche streichen. Wird die zweite Wiederholung langsam, ist der Satz vorbei |
+| 4 | Back Squat | 3 × 3 | 85 % = 90 kg | 2–3 min | in der Spielwoche 2 Sätze, nie bis zum Versagen, 2–3 RIR |
+| 5 | Romanian Deadlift | 3 × 5 | RPE 7 = ca. 90 kg | 2 min | ersetzt das Trap Bar Deadlift, keine Trap Bar vorhanden |
+| 6 | Bulgarian Split Squat | 2 × 6/Bein | RPE 7 | 90 s | Erhalt der unilateralen Kraft |
+| 7 | Nordic Hamstring Curl | 2 × 5 | exzentrisch 4 s | 90 s | Hamstringschutz, in der Spielwoche streichen |
+| 8 | Standing Calf Raise | 3 × 10 | RPE 8 | 60 s | 2 s Pause unten |
+| 9 | Copenhagen Plank | 2 × 30 s/Seite | Körpergewicht | 45 s | Adduktoren |
 
-## Kraft B — Zug, Schulter, Abbremsen
+**Kurzversion, 30 min:** Punkte 1, 2, 4, 5, 8. Das sind Aufwärmen, Knieversicherung, die beiden
+Hauptlifts und die Wade. Alles andere entfällt.
+
+## Kraft 2 — Zug, Schulter, Abbremsen
 
 Die Einheit hat bewusst kein schweres Drücken. Punkt 10 ist der einzige Druckreiz und hat eine
 Freigabebedingung.
@@ -90,30 +102,25 @@ Freigabebedingung.
 
 In der Spielwoche entfallen Punkt 9 und 10, die übrigen bleiben vollständig.
 
-## Kraft C — Sprungkraft und Anlaufsprung
+**Kurzversion, 30 min:** Punkte 1, 2, 3, 5, 6, 8. Aktivierung, Zug, Abbremsarbeit, Face Pull. Die
+Abbremsarbeit bleibt auch in der Kurzversion drin — sie ist der Grund für die Einheit.
 
-Nur in der freien Woche. Diese Einheit ist der Grund, warum freie Wochen Aufbauwochen sind.
+## Kraft 3 — Sprungkraft und Athletik
+
+Nur wenn ein dritter Slot übrig bleibt und die Beine frisch sind. Diese Einheit ist Kür.
 
 | # | Übung | Sätze × Wdh | Intensität | Pause | Hinweis |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Pogo Hops | 2 × 15 | Körpergewicht | 60 s | Aktivierung |
-| 2 | Power Clean | 4 × 2 | 70 kg | 2–3 min | Streckschleife gegen Zeit. Wird die zweite Wiederholung langsam, ist der Satz vorbei |
-| 3 | Vertical Box Jump | 3 × 3 | Körpergewicht | 2 min | maximale Absicht, weich und aktiv landen |
-| 4 | Anlaufsprung | 6 × 2 | Körpergewicht | 2 min | auf Reichhöhe, volle Erholung, Positionsschwerpunkt |
-| 5 | Lateral Bound | 3 × 4/Seite | Körpergewicht | 90 s | Landung halten |
-| 6 | Hip Thrust | 3 × 6 | RPE 7 | 90 s | 1 s Pause oben |
-| 7 | Standing Calf Raise explosiv | 3 × 8 | RPE 7 | 60 s | konzentrisch schnell |
-| 8 | Hanging Leg Raise | 3 × 10 | Körpergewicht | 60 s | ohne Schwung |
+| 2 | Vertical Box Jump | 3 × 3 | Körpergewicht | 2 min | maximale Absicht, weich und aktiv landen |
+| 3 | Anlaufsprung | 6 × 2 | Körpergewicht | 2 min | auf Reichhöhe, volle Erholung |
+| 4 | Lateral Bound | 3 × 4/Seite | Körpergewicht | 90 s | Landung halten |
+| 5 | Hip Thrust | 3 × 6 | RPE 7 | 90 s | 1 s Pause oben |
+| 6 | Standing Calf Raise explosiv | 3 × 8 | RPE 7 | 60 s | konzentrisch schnell |
+| 7 | Hanging Leg Raise | 3 × 10 | Körpergewicht | 60 s | ohne Schwung |
 
-## Sprungkontakte in der Saison
-
-| Wochentyp | Kontakte aus dem Krafttraining | Begründung |
-| --- | --- | --- |
-| Freie Woche | 60–80 | Kraft C liefert den Reiz, zwei Volleyballeinheiten kommen dazu |
-| Spielwoche | maximal 40 | Das Spiel liefert die Sprungbelastung |
-
-Volleyballsprünge zählen mit, eine Einheit sind grob 80 bis 150. Zählweise und Steigerungsregel
-stehen in [docs/10-plyometrie.md](10-plyometrie.md).
+**Abbruchregel:** Liegt die Sprunghöhe im Aufwärmen mehr als 10 % unter der Referenz, entfällt
+die Einheit. Sprungarbeit auf müden Beinen bringt nichts und kostet Erholung.
 
 ## Der Doppelspieltag
 
@@ -121,17 +128,28 @@ An jedem Spieltag dieser Saison stehen zwei Spiele an, nicht eines. Das verdoppe
 und vor allem die Schlagbelastung an einem Vormittag. Daraus folgt eine Regel, die über allem
 anderen in dieser Datei steht:
 
-**In der Woche nach einem Spieltag ist das Drückvolumen null.** Auch Punkt 10 in Kraft B
+**In der Woche nach einem Spieltag ist das Drückvolumen null.** Auch Punkt 10 in Kraft 2
 entfällt, unabhängig von seiner Freigabebedingung. Schulter-Mini-Dosis und Abbremsarbeit laufen
 normal weiter, die Beine ebenfalls.
 
 Die Spieltage und der vollständige Wochenkalender stehen in
 [docs/18-saisonkalender.md](18-saisonkalender.md).
 
-## Wenn zwei Spiele in einer Woche anstehen
+## Sprungkontakte in der Saison
 
-Auf eine Krafteinheit reduzieren: Kraft A mit Back Squat 2 × 3 und Spanish Squat, dazu die
-Schulter-Prehab. Das Prehab läuft täglich weiter und wird nie als Erstes gestrichen.
+| Wochentyp | Kontakte aus dem Krafttraining | Begründung |
+| --- | --- | --- |
+| Freie Woche | 60–80 | Kraft 3 liefert den Reiz, zwei eigene Volleyballeinheiten kommen dazu |
+| Spielwoche | maximal 40 | Das Spiel liefert die Sprungbelastung |
+
+Volleyballsprünge zählen mit, eine Einheit sind grob 80 bis 150. Zählweise und Steigerungsregel
+stehen in [docs/10-plyometrie.md](10-plyometrie.md).
+
+## Wenn eine Woche gar nichts hergibt
+
+Dann bleibt die tägliche Schulter-Mini-Dosis aus [docs/12-prehab-schulter.md](12-prehab-schulter.md)
+und sonst nichts. Fünf bis acht Minuten, auch im Wohnzimmer. Eine Woche ohne Krafttraining kostet
+nichts; vier Wochen ohne Prehab kosten die Schulter.
 
 ## Verweise
 
