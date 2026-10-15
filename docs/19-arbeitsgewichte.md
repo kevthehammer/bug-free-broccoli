@@ -112,23 +112,33 @@ falsch, trainiert aber eher Kraft als Schnelligkeit.
 
 ## Körperdaten und Sprungwerte
 
-| Wert | Stand 14.10.2026 | Herkunft |
+| Wert | Stand 15.10.2026 | Herkunft |
 | --- | --- | --- |
 | Körpergewicht | 72,45 kg | Tagesmessung, App |
 | Körpergröße | 1,82 m | abgeleitet aus den BMI-Grenzen der App (61,28 / 82,81 / 99,37 kg entsprechen BMI 18,5 / 25 / 30) |
 | BMI | 21,9 | gerechnet |
 | Standreichhöhe | 233 cm | einhändig, höchster Finger |
-| Angriffsreichhöhe | ca. 300 cm | einhändig, mit Anlauf |
-| Sprunghöhe | 67 cm | Differenz der beiden Reichhöhen |
+| Angriffsreichhöhe | 307 cm max., 303 cm Schnitt | einhändig, mit Anlauf, gemessen 15.10.2026 |
+| Sprunghöhe mit Anlauf | 74 cm max., 70 cm Schnitt | Differenz zur Standreichhöhe |
+| Blockreichhöhe | 287 cm | beidbeinig aus dem Stand, gemessen 15.10.2026 |
+| Blocksprunghöhe | 54 cm | Differenz zur Standreichhöhe |
+| Einbeinige Sprunghöhe | rechts 20,9 cm, links 18,4 cm | gemessen 15.10.2026 |
 
 Das Verhältnis Standreichhöhe zu Körpergröße liegt bei 1,280 und damit im üblichen Bereich von
 1,28 bis 1,33. Die beiden unabhängigen Angaben stützen sich also gegenseitig.
 
-**Über Netzkante: 57 cm.** Die Netzhöhe im Herrenbereich beträgt 2,43 m, die Angriffsreichhöhe
-3,00 m. Das ist die Zahl, die über die Wirkung am Netz entscheidet.
+**Über Netzkante: 64 cm** (Bestwert, im Schnitt 60 cm). Die Netzhöhe im Herrenbereich beträgt 2,43 m,
+die Angriffsreichhöhe 3,07 m. Das ist die Zahl, die über die Wirkung am Netz entscheidet.
 
-Die Sprunghöhe von 67 cm liegt deutlich über der alten Schätzung von 55 bis 60 cm. Da die
-Angriffsreichhöhe mit „ca." angegeben ist, gehört sie beim nächsten Test sauber nachgemessen.
+Die Messung vom 15.10.2026 ersetzt die Schätzung von ca. 300 cm.
+
+**Sprungprofil:** Anlaufgewinn 307 − 287 = 20 cm (mit dem Schnitt 303 cm: 16 cm), also elastisch
+nach [docs/02-testbatterie.md](02-testbatterie.md). Der Anlauf wird gut in Höhe umgesetzt; der
+größere Hebel ist Maximalkraft. Das deckt sich mit dem Off-Season-Schwerpunkt.
+
+**Asymmetrie:** (20,9 − 18,4) / 20,9 = 12 % zulasten links, Zielwert unter 10 %. Ein Einzeltest
+schwankt; beim Test in KW 51 mit drei Versuchen je Bein bestätigen. Bleibt es über 10 %, kommt
+einbeinige Arbeit mit links zuerst und einem Zusatzsatz für links in den Plan.
 
 ### Gewichtsverlauf
 
@@ -167,9 +177,7 @@ Die bisherigen 12,5 kg waren also für die Wiederholungszahlen im Saisonmodus eh
 
 | Wert | Warum er gebraucht wird |
 | --- | --- |
-| Angriffsreichhöhe exakt | Aktuell „ca. 300 cm". Beim Test in KW 51 mit Kreide und Maßband nachmessen |
-| Blockreichhöhe | Fehlt noch. Zweiter Sprungwert neben dem Anlaufsprung, zeigt die beidbeinige Sprungkraft ohne Anlauf. Daraus folgt das Sprungprofil, siehe docs/02 |
-| Einbeinige Sprunghöhe links und rechts | Für den Asymmetrie-Index, Zielwert unter 10 % Differenz |
+| Wiederholungstest KW 51 | Alle Sprungwerte am 15.10.2026 gemessen. In KW 51 wiederholen, Asymmetrie mit drei Versuchen je Bein bestätigen |
 
 ## Verweise
 
