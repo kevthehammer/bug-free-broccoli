@@ -9,9 +9,22 @@ Rückmeldung und beantwortet Fragen zu Übungen.
 
 1. **Tages-Check, Zeit, Anpassung, Erklärungen, Bewertung, Zielgewichte, Feedback.** Umgesetzt in
    Version 18.
-2. **Wochenplanung und Briefing.** Freitagstraining fällt aus oder ein Tag geht nicht: Die App
-   verteilt Kraft 1 bis 3 neu. Das Briefing erscheint in der App, und das Morgenbriefing liest das
-   Tagebuch mit. Offen.
+2. **Wochenplanung und Briefing.** Umgesetzt in Version 19. Unter „Woche planen“ lässt sich das
+   Herrentraining als ausgefallen markieren und jede Krafteinheit verschieben oder streichen. Das
+   Coach-Briefing steht oben auf „Heute“: letztes Feedback, Ziele heute, Woche, nächstes Spiel.
+   Gespeichert unter `woche/<Montag>`.
+
+## Verschieben (Praxisregeln)
+
+Die App bietet nur Tage an, die diese Regeln erfüllen:
+
+- nicht am Spieltag und nicht in der Vergangenheit
+- keine zwei Krafteinheiten an einem Tag
+- Kraft 1 und Kraft 3 mindestens zwei Tage vor dem Spiel, nicht am Tag nach dem Spiel und nicht direkt neben der anderen
+- Kraft 2 mindestens einen Tag vor dem Spiel
+
+Fällt in einer Woche ohne Spiel das Freitagstraining aus, schlägt die App vor, Kraft 3 auf Freitag
+vorzuziehen.
 
 ## Wochenrahmen (fest)
 
