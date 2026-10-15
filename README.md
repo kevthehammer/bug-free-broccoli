@@ -55,6 +55,7 @@ jedes Drückvolumen im Gym.
 | [docs/19-arbeitsgewichte.md](docs/19-arbeitsgewichte.md) | Geschätzte 1RM und Arbeitsgewichte in Kilogramm |
 | [docs/20-evidenz.md](docs/20-evidenz.md) | Studienlage zu Kraft 1 mit Quellen |
 | [docs/21-grosse-recherche.md](docs/21-grosse-recherche.md) | Große Recherche: ganzes Programm gegen die Studienlage |
+| [docs/22-perplexity-abgleich.md](docs/22-perplexity-abgleich.md) | Perplexity-Berichte gegen den Plan |
 | [log/wochenlog-vorlage.md](log/wochenlog-vorlage.md) | Vorlage für das Wochenlog |
 | [log/testprotokoll-vorlage.md](log/testprotokoll-vorlage.md) | Vorlage für das Testprotokoll |
 
