@@ -129,11 +129,13 @@ Nur wenn ein dritter Slot übrig bleibt und die Beine frisch sind. Diese Einheit
 | --- | --- | --- | --- | --- | --- |
 | 1 | Pogo Hops | 2 × 15 | Körpergewicht | 60 s | Aktivierung |
 | 2 | Vertical Box Jump | 3 × 3 | Körpergewicht | 2 min | maximale Absicht, weich und aktiv landen |
-| 3 | Anlaufsprung | 6 × 2 | Körpergewicht | 2 min | auf Reichhöhe, volle Erholung |
+| 3 | Anlaufsprung | 5–8 Aufwärmsprünge, dann 6 × 2 | Körpergewicht | 2 min | Aufwärmsprünge locker und steigernd, dann bis zum Tagesmaximum an der Reichhöhe. Fallen zwei Sprünge in Folge ab, Schluss |
 | 4 | Lateral Bound | 3 × 4/Seite | Körpergewicht | 90 s | Landung halten |
 | 5 | Hip Thrust | 3 × 6 | RPE 7 | 90 s | 1 s Pause oben |
 | 6 | Standing Calf Raise explosiv | 3 × 8 | RPE 7 | 60 s | konzentrisch schnell |
 | 7 | Hanging Leg Raise | 3 × 10 | Körpergewicht | 60 s | ohne Schwung |
+
+**Struktur nach THP (Rivera):** erst steigern, dann maximal, aufhören, sobald die Höhe sinkt. Siehe [docs/20-evidenz.md](20-evidenz.md).
 
 **Abbruchregel:** Liegt die Sprunghöhe im Aufwärmen mehr als 10 % unter der Referenz, entfällt
 die Einheit. Sprungarbeit auf müden Beinen bringt nichts und kostet Erholung.

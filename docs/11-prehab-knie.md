@@ -10,7 +10,7 @@ sich langsamer an als der Muskel, deshalb folgt sie einer eigenen Progression.
 **Einordnung für diesen Athleten:** Das Knie ist aktuell beschwerdearm, das Schmerzniveau
 praktisch nicht vorhanden. Damit ist dieses Protokoll Prävention, nicht Behandlung. Konkret:
 
-- Die Isometrie aus Phase 1 bleibt, aber als Versicherung im Aufwärmen, nicht als Behandlungsblock.
+- Die Isometrie aus Phase 1 ist kein fester Bestandteil mehr (seit Kraft 1 V10). Sie ist ein Werkzeug bei Kniereizung: ab Knie-Check 3/10 oder Ampel gelb Spanish Squat oder Wandsitz 5 × 45 s, täglich, bis der Wert wieder unter 3 liegt. Sie lindert kurzfristig Schmerz; den Schutz liefert die schwere Kniebeuge ([docs/20-evidenz.md](20-evidenz.md), Befund 6). THP nutzt dafür ebenfalls eine eigene Isometrie-Woche.
 - Beim Sprungvolumen darf ans obere Ende der Vorgaben aus [docs/10-plyometrie.md](10-plyometrie.md) gegangen werden.
 - Der Deckel auf die wöchentliche Gesamtsprungzahl bleibt. In einer Sprungsportart ist er Prävention, nicht Therapie.
 - Die Schmerzampel unten bleibt unverändert gültig. Sie ist der Grund, warum die Lockerung vertretbar ist: sie fängt eine Verschlechterung auf.
@@ -29,7 +29,7 @@ praktisch nicht vorhanden. Damit ist dieses Protokoll Prävention, nicht Behandl
 | Ampel | Kriterium | Konsequenz |
 | --- | --- | --- |
 | Grün | Schmerz höchstens 3/10 während der Belastung, am nächsten Morgen wieder auf Ausgangsniveau | Programm unverändert fortsetzen |
-| Gelb | Schmerz 4–5/10 oder spürbar mehr Morgensteifigkeit als sonst | Sprungvolumen für eine Woche halbieren, zurück zu Phase 1 oder 2, danach neu bewerten |
+| Gelb | Schmerz 4–5/10 oder spürbar mehr Morgensteifigkeit als sonst | Sprungvolumen für eine Woche halbieren, Isometrie täglich (5 × 45 s), danach neu bewerten |
 | Rot | Schmerz über 5/10, Schmerz bei Alltagsbelastung wie Treppensteigen, Schwellung oder nächtlicher Schmerz | Plyometrie aussetzen, nur Isometrie und HSR, ärztlich oder physiotherapeutisch abklären |
 
 ## Monitoring

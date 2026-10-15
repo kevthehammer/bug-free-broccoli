@@ -103,6 +103,8 @@ Kraft 1.
    bei 75–80 %, statt 3 × 2.
 5. **Off-Season ab Februar:** Reihenfolge konzentrisch, isometrisch, exzentrisch als Grundgerüst.
    Übergewichtige Exzentrik nur dort, nie in der Saison, wegen der sechs Wochen Ermüdung.
+6. **Sprungtag-Struktur** (am 15.10.2026 übernommen): in Kraft 3 erst 5–8 Aufwärmsprünge steigernd, dann bis zum Tagesmaximum, Schluss bei Abfall. Siehe docs/09.
+7. **Isometrie als Werkzeug** (am 15.10.2026 übernommen): nur bei Kniereizung, dann täglich bis sie abklingt. Siehe docs/11.
 
 **Quellen:**
 
