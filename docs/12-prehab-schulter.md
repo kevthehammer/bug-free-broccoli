@@ -43,7 +43,7 @@ physiotherapeutisch oder ärztlich angeschaut.
 
 ## Grundprinzipien
 
-1. Zugvolumen zu Druckvolumen mindestens 2:1 über die Woche, in der Saison mindestens 3:1.
+1. Zugvolumen zu Druckvolumen mindestens 2:1 über die Woche, in der Saison mindestens 3:1. Praxisregel ohne Studie.
 2. Überkopfdrücken wird progressiv aufgebaut, nicht vorausgesetzt.
 3. Skapula-Kontrolle vor Last.
 4. Brustwirbelsäulen-Beweglichkeit ist Voraussetzung für schmerzfreie Überkopfbewegung.

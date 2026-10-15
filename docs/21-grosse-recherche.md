@@ -31,9 +31,9 @@ Am 14.10.2026 übernommen: Lücken 1–4 und 6–8 sowie die Off-Season-Punkte (
 | # | Lücke | Befund | Stärke |
 | --- | --- | --- | --- |
 | 1 | **Schulterprogramm vor der Halle fehlt** | OSTRC: 3× pro Woche ca. 10 min im Aufwärmen, 5 Übungen (Plank mit Push-up plus, Y-Flies, Rumpfrotation, Außenrotation mit Band bis Drop-and-catch und Rückwärtswurf, Cross-body-Dehnung). Skapula-Dyskinesie ist der einzige veränderbare Risikofaktor mit Volleyball-Kohortendaten (OR 3,9, de Toledo 2025) | mittel |
-| 2 | **Schwere Außenrotationskraft** | Exzentrische AR- und IR-Kraft schützen, schützendes Verhältnis AR/IR 0,60–0,75. Dass gezieltes Exzentriktraining allein besser ist als normales AR-Krafttraining, ist nicht belegt | mittel / schwach |
+| 2 | **Schwere Außenrotationskraft** | Exzentrische AR- und IR-Kraft schützen, ein AR/IR-Verhältnis unter ca. 0,69 ging in kleinen Kohorten mit höherem Risiko einher (Assoziation, kein belegter Schutzwert, siehe docs/22). Dass gezieltes Exzentriktraining allein besser ist als normales AR-Krafttraining, ist nicht belegt | mittel / schwach |
 | 3 | **Medizinballwürfe für härtere Schläge** | Oberkörper-Plyometrie in der Saison: Schlaggeschwindigkeit +3,8 %. Krafttraining für Wurfgeschwindigkeit ES 1,10 | mittel für Werfen, schwach für Volleyball |
-| 4 | **Schlag- und Sprungvolumen wird nicht gezählt** | Handball: Belastungsanstieg über 60 % gegenüber dem 4-Wochen-Schnitt verdoppelt das Schulterrisiko (Møller 2017). Springerknie: jede zusätzliche Wochenstunde 2- bis 4-faches Risiko (Visnes & Bahr). VBSC zählt Sprünge wie „Pitch Counts“ | mittel |
+| 4 | **Schlag- und Sprungvolumen wird nicht gezählt** | Handball: Belastungsanstieg über 60 % gegenüber dem 4-Wochen-Schnitt verdoppelt das Schulterrisiko (Møller 2017); die Grenze ist eine Faustregel, keine validierte Schwelle. Springerknie: jede zusätzliche Wochenstunde 2- bis 4-faches Risiko (Visnes & Bahr). VBSC zählt Sprünge wie „Pitch Counts“ | mittel |
 | 5 | **Sprunggelenk nicht abgedeckt** | Häufigste Volleyballverletzung (25–54 %), 79 % sind Rezidive. Balancetraining senkt Distorsionen, aber nur bei Spielern mit früherer Distorsion (Verhagen 2004). Tape oder Schnürorthese senken das Risiko auf 20–50 % (Verhagen & Bay 2010; McGuine 2011) | stark |
 | 6 | **Knie-Monitoring ohne Test** | Morgens einbeiniger Decline-Squat als Schmerztest, monatlich VISA-P-Fragebogen als Verlauf | mittel |
 | 7 | **Erholung nicht geregelt** | Schlaf: Verlängerung um 46–113 min verbesserte die Leistung in allen Studien. Protein: Nutzen bis ca. 1,6 g/kg (Morton 2018), bei 72 kg ca. 115 g/Tag. Kreatin 3–5 g/Tag: Kniebeuge +5,6 kg, Sprung +1,5 cm (Kazeminasab 2025) | stark (Protein, Kreatin), mittel (Schlaf) |
@@ -42,8 +42,8 @@ Am 14.10.2026 übernommen: Lücken 1–4 und 6–8 sowie die Off-Season-Punkte (
 ## Langfristig: die Off-Season ab Februar
 
 - **Maximalkraft ist dein größter Hebel.** Mit 1,45× Körpergewicht in der Kniebeuge liegst du
-  unter der Schwelle von ca. 2×, ab der die Literatur den Schwerpunkt auf Schnellkraft verlagert
-  (Suchomel 2016). Schwächere Athleten holten mit kombiniertem Training auf und wurden dabei
+  unter ca. 2×, die in der Praxis oft als Schwelle für mehr Schnellkraft gilt (Suchomel 2016).
+  Validiert ist diese Schwelle nicht (Korrektur 15.10.2026, siehe docs/22). Schwächere Athleten holten mit kombiniertem Training auf und wurden dabei
   stärker (James 2017). Ziel für 6–12 Monate: ca. 125–135 kg (1,7–1,9× KG). Das Ziel ist eine
   Ableitung, kein Studienwert.
 - **Plyometrie 2× pro Woche über 8–12 Wochen**, von Kastensprüngen über Countermovement und Depth

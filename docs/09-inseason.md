@@ -57,7 +57,7 @@ Für einen Außenangreifer mit reizbarer Schulter ist nicht das Knie der Engpass
 Schulter. Das Schlagvolumen im Volleyball ist nicht verhandelbar, also wird das Drückvolumen im
 Gym als Erstes reduziert. Daraus folgen drei Festlegungen für die gesamte Saison:
 
-1. Verhältnis Zug zu Druck mindestens 3:1, nicht 2:1 wie in der Off-Season.
+1. Verhältnis Zug zu Druck mindestens 3:1, nicht 2:1 wie in der Off-Season. Praxisregel ohne Studie, aber bei deiner Schulter plausibel.
 2. Horizontales und vertikales Drücken nur als Zusatz mit Freigabe, nie als Hauptübung.
 3. Abbremsarbeit für den Schlagarm ist Pflichtteil jeder Oberkörpereinheit, nicht Zusatz.
 
@@ -78,7 +78,7 @@ Eine Mischung aus deinem bewährten Ablauf und dem bisherigen Plan, begründet i
 | 6 | Power Clean | 3 × 2 | 70–72,5 kg | 2–3 min | in der Spielwoche streichen. Aufwärmsätze vorher. Wird die zweite Wiederholung langsam, ist der Satz vorbei |
 | 7 | Back Squat | 3 × 3 | 85 % = 90 kg | 2–3 min | in der Spielwoche 2 Sätze, nie bis zum Versagen, 2–3 RIR. Nach jedem Satz 2 maximale Sprünge ohne Last (Kontrast) |
 | 8 | Romanian Deadlift | 3 × 5 | RPE 7 = ca. 90 kg | 2 min | ersetzt das Trap Bar Deadlift, keine Trap Bar vorhanden |
-| 9 | Nordic Hamstring Curl | 2 × 5 | exzentrisch 4 s | 90 s | halbiert das Risiko für Oberschenkelverletzungen, mit Sprints erst recht Pflicht. In der Spielwoche streichen |
+| 9 | Nordic Hamstring Curl | 2 × 5 | exzentrisch 4 s | 90 s | senkt das Risiko für Oberschenkelverletzungen wahrscheinlich (Beleg umstritten, siehe docs/22), wenig Aufwand, mit Sprints sinnvoll. In der Spielwoche streichen |
 | 10 | Standing Calf Raise | 3 × 8 | RPE 8 = ca. 125 kg | 60 s | an der Smith Machine, 2 s Pause unten |
 
 Aus deinem Ablauf übernommen: Schlitten, Aufwärmen, Sprints, Anlaufsprünge vor dem Power Clean,
@@ -165,7 +165,7 @@ stehen in [docs/10-plyometrie.md](10-plyometrie.md).
 
 Nach jedem Hallentraining und Spiel trägst du in der App grob ein, wie viele Angriffsschläge und
 Sprünge es waren. Schätzen reicht. Die App vergleicht die laufende Woche mit dem Schnitt der
-letzten vier Wochen. Liegt sie mehr als 60 % darüber, warnt sie: Ein solcher Sprung verdoppelte im
+letzten vier Wochen. Liegt sie mehr als 60 % darüber, warnt sie. Das ist eine Faustregel, keine belegte Grenze (Ding 2026). Ein solcher Sprung verdoppelte im
 Handball das Schulterrisiko (Møller 2017), beim Springerknie zählt jede zusätzliche Wochenstunde
 (Visnes & Bahr). Dann in dieser Woche Kraft 3 streichen und im Training weniger Angriffe schlagen.
 

@@ -56,7 +56,8 @@ Aus [docs/21-grosse-recherche.md](21-grosse-recherche.md), beim Aufsetzen des Ma
 letzten Spieltag (13.02.2027) einarbeiten:
 
 - **Schwerpunkt Maximalkraft.** Kniebeuge-Ziel für 6–12 Monate ca. 125–135 kg (1,7–1,9× KG).
-  Unter ca. 2× KG bringt Kraft mehr als Schnellkraft (Suchomel 2016, James 2017).
+  Eine belegte Kraftschwelle für den Wechsel zu Schnellkraft gibt es nicht (Praxismeinung: ca. 2× KG).
+  Die Studienlage spricht dafür, Kraft und Sprung zu kombinieren (James 2018, siehe docs/22).
 - **Plyometrie 2× pro Woche über 8–12 Wochen**, von Kastensprüngen über Countermovement und Depth
   Jumps zu Anlaufsprüngen.
 - **Übergewichtige Exzentrik spät** als 3- bis 5-Wochen-Block (Sheppard 2008).
