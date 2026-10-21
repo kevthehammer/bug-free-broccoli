@@ -84,6 +84,10 @@ Nach jeder Übung mit Gewicht bewertet Kev den letzten Satz nach Wiederholungen 
 | schwer, 1 übrig | gleich |
 | Grenze, 0 übrig | 5 % weniger |
 
+Seit App V22 (21.10.2026) trägt Kev pro Satz auch die Wiederholungen ein (vorgetragen ist das Ziel,
+z. B. 8; geschafft z. B. 7). Liegt ein Satz unter der Zielwiederholung, zählt das wie „nicht alle
+Sätze“: Bei „passend“ bleibt das Gewicht gleich statt eine Stufe mehr. Praxisregel, keine Studie.
+
 Das folgt dem Prinzip der autoregulierten Steigerung (APRE, Mann 2010): Das Gewicht richtet sich
 danach, was am Tag ging. Die Stufen selbst sind Praxiswerte. Wenn der Tagesplan ein Gewicht nennt
 (etwa Squat-Rampe 80, 85, 90 kg), gilt der Plan. Nur nach „schwer“ oder „Grenze“ bleibt die App
@@ -102,3 +106,9 @@ gespeichert (`log/<Datum>.coach`).
 - Mann JB et al. (2010). The effect of autoregulatory progressive resistance exercise vs. linear periodization on strength improvement in college athletes. J Strength Cond Res 24(7).
 - Saw AE et al. (2016). Monitoring the athlete training response: subjective self-reported measures trump commonly used objective measures. Br J Sports Med 50(5).
 - Iversen VM et al. (2021). No time to lift? Designing time-efficient training programs for strength and hypertrophy. Sports Med 51(10).
+
+## Datenfelder pro Übung (log/<Datum>.uebungen[])
+
+Seit V22: `kgSaetze` und `wdhSaetze` (je Satz, nur abgehakte oder selbst geänderte Werte; vorgetragene
+Vorgaben unerledigter Sätze bleiben leer), `wdhZiel` (aus der Satzangabe, bei Zeitangaben Sekunden),
+`notiz` (Notiz zur Übung, etwa Band oder Geräteeinstellung; wird beim nächsten Mal angezeigt).
