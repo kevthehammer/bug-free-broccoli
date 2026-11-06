@@ -23,15 +23,16 @@ im Gym als Erstes reduziert.
 
 ### Hallentage Dienstag und Freitag
 
-Stand 06.11.2026 (Kev): Balltraining ist Dienstag und Freitag, Spiele samstags. Donnerstag ist kein
-Hallentag mehr; die frühere Annahme „Trainertätigkeit Di/Do“ gilt nicht.
+Stand 06.11.2026 (Kev): Dienstag Damentraining als Trainer (Anwerfen, Zuspielen, kontrollierte
+Schläge), danach eigenes Balltraining; Freitag Balltraining; Spiele samstags. Donnerstag ist kein
+Hallentag mehr. Die Trainertätigkeit ist kein zusätzlicher harter Schultertag.
 
 Zwei Dinge folgen daraus:
 
 1. Die Schulter ist am Mittwoch nie vollständig ausgeruht, weil Dienstag davor ein Hallentag ist.
    Die Freigabebedingung für den Landmine Press in Kraft 2 bleibt deshalb bestehen und wird nicht
    gelockert.
-2. Falls du im Training anwirfst: Anwerfen über Kopf mit dem Schlagarm ist vermeidbares Volumen. Wo die Übungsform es zulässt,
+2. Anwerfen über Kopf mit dem Schlagarm ist vermeidbares Volumen. Wo die Übungsform es zulässt,
    beidhändig von unten anwerfen oder den Arm wechseln. Das kostet nichts und spart über eine
    Saison mehrere tausend Überkopfbewegungen.
 

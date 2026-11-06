@@ -9,7 +9,7 @@ feste Wochentage gebunden, sondern an die Anzahl der Einheiten, die in einer Woc
 | Tag | Was ansteht | Kraft möglich |
 | --- | --- | --- |
 | Montag | — | **ja** |
-| Dienstag | Balltraining (Herren) | nein |
+| Dienstag | Damentraining als Trainer, danach eigenes Balltraining (Herren) | nein |
 | Mittwoch | — | **ja** |
 | Donnerstag | — | nur Reserve, kein Beintraining vor dem Freitagstraining |
 | Freitag | Balltraining (Herren); vor einem Spiel frei | nein |
@@ -17,8 +17,11 @@ feste Wochentage gebunden, sondern an die Anzahl der Einheiten, die in einer Woc
 | Sonntag | — | möglich, aber ungünstig vor Montag |
 
 Daraus folgen zwei verlässliche Slots pro Woche und ein dritter, der vom Spielplan abhängt.
-Stand 06.11.2026 (Kev): Balltraining ist Dienstag und Freitag, Spiele sind immer samstags. Donnerstag
-ist kein Hallentag; die frühere Annahme „Damentraining als Trainer Di/Do“ gilt nicht mehr. Spieltermine
+Stand 06.11.2026 (Kev): Dienstag Damentraining als Trainer, danach eigenes Balltraining; Freitag
+Balltraining; Spiele immer samstags. Donnerstag ist kein Hallentag. Der Dienstag ist der härteste Tag
+der Woche und kein Erholungstag. Kraft 1 am Montag davor bleibt: Sätze ohne Versagen sind nach etwa
+24 h weitgehend erholt (Pareja-Blanco 2017); sind die Beine an 2 von 3 Dienstagen schwer, wird Kraft 1
+gekürzt, nicht verlegt. Spieltermine
 stehen in [18-saisonkalender.md](18-saisonkalender.md) und in `PLAN.md` (Projektordner).
 
 ## Die drei Einheiten nach Priorität
