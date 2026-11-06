@@ -1,5 +1,7 @@
 # Wochenstruktur
 
+> **Hinweis (06.11.2026):** Die Szenarien unten sind allgemeine Vorlagen aus der Anfangsplanung (T1–T4) und nicht Kevs Woche. Kevs echte Woche: Balltraining Dienstag und Freitag, Spiele immer samstags. Maßgeblich ist [09-inseason.md](09-inseason.md) (Kraft 1 Mo, Kraft 2 Mi, Kraft 3 Sa in freien Wochen).
+
 **Zweck dieser Datei:** Sie legt fest, welche vier Krafteinheiten es gibt, wie sie zu den Volleyballeinheiten und Spielen passen und wie die Sprungbelastung pro Woche begrenzt wird. Die Kontaktzahlen je Woche stammen aus [docs/03-periodisierung.md](03-periodisierung.md).
 
 ## Die vier Einheiten

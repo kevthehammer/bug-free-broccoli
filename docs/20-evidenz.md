@@ -36,7 +36,7 @@ klein, die Effekte sind Richtwerte, keine Garantien.
 3. **Reaktive Sprungkraft bekommt einen festen Platz.** Befund 3: Pogo Hops kommen als kurzer Block
    zurück. Dein bisheriger Ablauf hatte dafür nichts.
 4. **Kurze Antritte statt 20-m-Sprints.** Befund 9: 10 m mit maximalem Antritt sind
-   spielnäher und kosten weniger Erholung vor dem Doppeltraining am Dienstag.
+   spielnäher und kosten weniger Erholung vor dem Balltraining am Dienstag.
 5. **Spanish Squat darf raus.** Befund 6: Der Knieschutz kommt vor allem von der schweren,
    progressiven Kniebeuge, nicht von der Isometrie. Meine frühere Begründung („Knie-Versicherung“)
    war stärker formuliert, als die Studienlage hergibt.

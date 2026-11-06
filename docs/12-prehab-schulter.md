@@ -21,19 +21,17 @@ Die Position verschärft das: ein Außenangreifer hat die höchste Schlagbelastu
 Positionen. Das Schlagvolumen im Volleyball ist nicht verhandelbar, also wird das Drückvolumen
 im Gym als Erstes reduziert.
 
-### Trainertätigkeit am Dienstag und Donnerstag
+### Hallentage Dienstag und Freitag
 
-An beiden Tagen kommen Bälle dazu: Anwerfen, Zuspielen, gelegentliche Schläge. Die Schläge sind
-kontrolliert und nicht maximal, die Belastung dabei gering und schmerzfrei. Das ist deshalb
-**kein dritter und vierter harter Schultertag**, und das Drückvolumen im Gym muss deswegen nicht
-weiter sinken als ohnehin festgelegt.
+Stand 06.11.2026 (Kev): Balltraining ist Dienstag und Freitag, Spiele samstags. Donnerstag ist kein
+Hallentag mehr; die frühere Annahme „Trainertätigkeit Di/Do“ gilt nicht.
 
-Zwei Dinge folgen trotzdem daraus:
+Zwei Dinge folgen daraus:
 
-1. Die Schulter ist am Mittwoch nie vollständig ausgeruht, weil Dienstag davor und Donnerstag
-   danach Hallentage sind. Die Freigabebedingung für den Landmine Press in Kraft 2 bleibt deshalb
-   bestehen und wird nicht gelockert.
-2. Anwerfen über Kopf mit dem Schlagarm ist vermeidbares Volumen. Wo die Übungsform es zulässt,
+1. Die Schulter ist am Mittwoch nie vollständig ausgeruht, weil Dienstag davor ein Hallentag ist.
+   Die Freigabebedingung für den Landmine Press in Kraft 2 bleibt deshalb bestehen und wird nicht
+   gelockert.
+2. Falls du im Training anwirfst: Anwerfen über Kopf mit dem Schlagarm ist vermeidbares Volumen. Wo die Übungsform es zulässt,
    beidhändig von unten anwerfen oder den Arm wechseln. Das kostet nichts und spart über eine
    Saison mehrere tausend Überkopfbewegungen.
 
